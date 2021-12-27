@@ -10,6 +10,6 @@ description: Эквайринг подключен
 
 ![](../.gitbook/assets/Screenshot\_182.png)
 
+![](../.gitbook/assets/Screenshot\_183.png)
 
-
-\
+![](../.gitbook/assets/Screenshot\_184.png)\
