@@ -52,3 +52,4 @@
   * [Как настроить?](dogovor-oferta-i-politika-konfidencialnosti/kak-nastroit.md)
   * [Как изменить/дополнить документы?](dogovor-oferta-i-politika-konfidencialnosti/kak-izmenit-dopolnit-dokumenty.md)
   * [Как клиент сможет "принимать" документы?](dogovor-oferta-i-politika-konfidencialnosti/kak-klient-smozhet-prinimat-dokumenty.md)
+* [Page 2](page-2.md)
