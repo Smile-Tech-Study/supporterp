@@ -56,3 +56,4 @@
   * [Склад](inventarizaciya/sklad.md)
   * [Контроль](inventarizaciya/kontrol.md)
   * [Товары](inventarizaciya/tovary.md)
+  * [Заказы](inventarizaciya/zakazy.md)
