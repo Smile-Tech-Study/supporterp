@@ -4,16 +4,16 @@
 
 Вы сможете наглядно увидеть, какие предметы инвентаря и в каком количестве находятся у определенного сотрудника или на указанном складе. Когда было поступление или списание того или иного товара и в каком количестве.
 
-![](../.gitbook/assets/Screenshot\_197.png)
+![Движение предметов следует начать с кнопки Операции на странице Складской учёт](../.gitbook/assets/Screenshot\_197.png)
 
-![](../.gitbook/assets/Screenshot\_199.png)
+![Настраиваемые фильтры помогут отследить движение каждого из предметов инвентаря](../.gitbook/assets/Screenshot\_199.png)
 
-![](../.gitbook/assets/Screenshot\_200.png)
+![Списание товара](../.gitbook/assets/Screenshot\_200.png)
 
-![](../.gitbook/assets/Screenshot\_202.png)
+![Списание товара](../.gitbook/assets/Screenshot\_202.png)
 
-![](../.gitbook/assets/Screenshot\_203.png)
+![Отображение списанного товара](../.gitbook/assets/Screenshot\_203.png)
 
-![](../.gitbook/assets/Screenshot\_204.png)
+![Перемещение товара между сотрудниками или складами](../.gitbook/assets/Screenshot\_204.png)
 
-![](../.gitbook/assets/Screenshot\_206.png)
+![Отображение информации о перемещении товара](../.gitbook/assets/Screenshot\_206.png)
