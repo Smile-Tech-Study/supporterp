@@ -35,4 +35,8 @@ description: Эквайринг подключен
 ![Заполните необходимые поля и нажмите кнопку Сохранить.
 ](../.gitbook/assets/Screenshot\_191.png)
 
-****[**https://youtu.be/LyepHspzc60**](https://youtu.be/LyepHspzc60)****
+****
+
+**Теперь клиенты смогут самостоятельно оформить себе абонемент через личный кабинет**
+
+{% embed url="https://youtu.be/LyepHspzc60" %}
