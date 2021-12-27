@@ -8,6 +8,8 @@ description: Эквайринг подключен
 
 В Education ERP будет появляться купленный клиентом абонемент на странице ученика.
 
-![](../.gitbook/assets/Screenshot\_1.jpg)
+![](../.gitbook/assets/Screenshot\_182.png)
+
+
 
 \
