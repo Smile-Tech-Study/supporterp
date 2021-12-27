@@ -52,7 +52,7 @@
   * [Как настроить?](dogovor-oferta-i-politika-konfidencialnosti/kak-nastroit.md)
   * [Как изменить/дополнить документы?](dogovor-oferta-i-politika-konfidencialnosti/kak-izmenit-dopolnit-dokumenty.md)
   * [Как клиент сможет "принимать" документы?](dogovor-oferta-i-politika-konfidencialnosti/kak-klient-smozhet-prinimat-dokumenty.md)
-* [Инвентаризация](inventarizaciya/README.md)
+* [Инвентаризация](page-2.md)
   * [Склад](inventarizaciya/sklad.md)
   * [Контроль](inventarizaciya/kontrol.md)
   * [Товары](inventarizaciya/tovary.md)
