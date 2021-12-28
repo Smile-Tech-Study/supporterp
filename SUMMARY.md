@@ -57,3 +57,4 @@
   * [Контроль](inventarizaciya/kontrol.md)
   * [Товары](inventarizaciya/tovary.md)
   * [Заказы](inventarizaciya/zakazy.md)
+* [Page 2](<page-2 (1).md>)
