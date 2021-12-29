@@ -61,4 +61,4 @@
   * [Заказы](inventarizaciya/zakazy.md)
 * [Чат-бот Афина](chat-bot-afina/README.md)
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
-  * [Вконтакте](chat-bot-afina/vkontakte.md)
+  * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
