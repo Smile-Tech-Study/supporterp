@@ -59,4 +59,6 @@
   * [Контроль](inventarizaciya/kontrol.md)
   * [Товары](inventarizaciya/tovary.md)
   * [Заказы](inventarizaciya/zakazy.md)
-* [Page 2](<page-2 (1).md>)
+* [Чат-бот Афина](chat-bot-afina/README.md)
+  * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
+  * [Вконтакте](chat-bot-afina/vkontakte.md)
