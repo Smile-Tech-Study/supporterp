@@ -51,11 +51,34 @@
 
 ![](../.gitbook/assets/Screenshot\_233.png)
 
+Далее в **Education ERP** внесите в поле «**Полная ссылка на страницу школы в ВКонтакте**» полную ссылку на страницу школы в ВКонтакте. Пример полной ссылки: https://vk.com/testSchoolPage.
 
+![](<../.gitbook/assets/Screenshot\_236 (1).png>)
 
+****
 
+**Дополнительные инструкции для подключения Афины к странице ВКонтакте.**
 
+1.Перейдите в раздел <mark style="color:blue;">**Работа с API**</mark>, затем откройте вкладку <mark style="color:blue;">**Callback API**</mark> и подвкладку <mark style="color:blue;">**Типы событий**</mark>. Отметьте галкой тип <mark style="color:blue;">**Входящее сообщение**</mark>.
 
+![](../.gitbook/assets/Screenshot\_237.png)
 
+2\) Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>. Рядом с надписью <mark style="color:blue;">**Сообщения сообщества**</mark> должно быть написано <mark style="color:blue;">**Включены**</mark>. Если это не так, щелкните по этой надписи и измените состояние на <mark style="color:blue;">**Включены**</mark>, затем нажмите на кнопку <mark style="color:blue;">**Сохранить**</mark>.
 
+![](../.gitbook/assets/Screenshot\_239.png)
 
+3\) Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>, нажмите <mark style="color:blue;">**Включить сообщения**</mark>.
+
+![](../.gitbook/assets/Screenshot\_240.png)
+
+4\) Перейдите в раздел <mark style="color:blue;">**Настройки**</mark> - <mark style="color:blue;">**Разделы**</mark>. Убедитесь, что напротив слова <mark style="color:blue;">**Фотографии**</mark> написано <mark style="color:blue;">**Открытые**</mark> или <mark style="color:blue;">**Ограниченные**</mark>. Если это не так, щелкните по этой надписи и измените состояние на подходящее, затем нажмите на кнопку <mark style="color:blue;">**Сохранить**</mark>.
+
+{% hint style="info" %}
+Фотографии должны быть Ограниченные или Открытые, **НО **<mark style="color:blue;">**не**</mark>**  **<mark style="color:blue;">**Выключены**</mark>
+{% endhint %}
+
+![](<../.gitbook/assets/Screenshot\_242 (2).png>)
+
+5\) Перейдите в раздел 'Работа с API', вкладка 'Callback API', подвкладка 'Настройки сервера'. Установите поле 'Версия API' = **5.95**
+
+![](../.gitbook/assets/Screenshot\_244.png)
