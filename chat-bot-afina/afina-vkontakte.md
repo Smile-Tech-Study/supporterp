@@ -63,11 +63,11 @@
 
 ![](../.gitbook/assets/Screenshot\_237.png)
 
-2\) Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>. Рядом с надписью <mark style="color:blue;">**Сообщения сообщества**</mark> должно быть написано <mark style="color:blue;">**Включены**</mark>. Если это не так, щелкните по этой надписи и измените состояние на <mark style="color:blue;">**Включены**</mark>, затем нажмите на кнопку <mark style="color:blue;">**Сохранить**</mark>.
+2\. Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>. Рядом с надписью <mark style="color:blue;">**Сообщения сообщества**</mark> должно быть написано <mark style="color:blue;">**Включены**</mark>. Если это не так, щелкните по этой надписи и измените состояние на <mark style="color:blue;">**Включены**</mark>, затем нажмите на кнопку <mark style="color:blue;">**Сохранить**</mark>.
 
 ![](../.gitbook/assets/Screenshot\_239.png)
 
-3\) Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>, нажмите <mark style="color:blue;">**Включить сообщения**</mark>.
+3\. Перейдите в раздел <mark style="color:blue;">**Сообщения**</mark>, нажмите <mark style="color:blue;">**Включить сообщения**</mark>.
 
 ![](../.gitbook/assets/Screenshot\_240.png)
 
@@ -79,7 +79,7 @@
 
 ![](<../.gitbook/assets/Screenshot\_242 (2).png>)
 
-5\) Перейдите в раздел 'Работа с API', вкладка 'Callback API', подвкладка 'Настройки сервера'. Установите поле 'Версия API' = **5.95**
+5\. Перейдите в раздел 'Работа с API', вкладка 'Callback API', подвкладка 'Настройки сервера'. Установите поле 'Версия API' = **5.95**
 
 ![](<../.gitbook/assets/Screenshot\_244 (1).png>)
 
