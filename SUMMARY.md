@@ -26,7 +26,7 @@
 * [Абонементы](abonementy/README.md)
   * [Виды абонементов](abonementy/vidy-abonementov.md)
   * [Добавление абонементов](abonementy/dobavlenie-abonementov.md)
-  * [Заканчивающиеся абонементы](abonementy/zakanchivayushiesya-abonementy.md)
+  * [Заканчивающиеся абонементы](abonementy/page-2.md)
   * [Ценники](abonementy/cenniki/README.md)
     * [Ценники на странице школы](abonementy/cenniki/cenniki-na-stranice-shkoly.md)
     * [Ценники на странице группы](abonementy/cenniki/cenniki-na-stranice-gruppy.md)
