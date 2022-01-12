@@ -6,4 +6,6 @@
 
 ![](../../../.gitbook/assets/Screenshot\_285.png)
 
+![](../../../.gitbook/assets/Screenshot\_286.png)
+
 {% embed url="https://www.youtube.com/watch?v=DZ1T5v92JH0" %}
