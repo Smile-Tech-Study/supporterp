@@ -16,6 +16,7 @@
         * [Домашние задания](nachalo-raboty/shkola/gruppa/materialy-dlya-klientov/domashnie-zadaniya.md)
       * [Закрытие группы](nachalo-raboty/shkola/gruppa/zakrytie-gruppy.md)
       * [Прибыльность](nachalo-raboty/shkola/gruppa/pribylnost.md)
+      * [Настраиваемые групп](nachalo-raboty/shkola/gruppa/nastraivaemye-grupp.md)
     * [Дополнительные настройки](nachalo-raboty/shkola/dopolnitelnye-nastroiki.md)
     * [Сотрудники](nachalo-raboty/shkola/sotrudniki.md)
     * [Уведомления](nachalo-raboty/shkola/uvedomleniya.md)
