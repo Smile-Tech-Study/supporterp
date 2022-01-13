@@ -17,6 +17,7 @@
       * [Закрытие группы](nachalo-raboty/shkola/gruppa/zakrytie-gruppy.md)
       * [Прибыльность](nachalo-raboty/shkola/gruppa/pribylnost.md)
       * [Настраиваемый список групп](nachalo-raboty/shkola/gruppa/nastraivaemyi-spisok-grupp.md)
+    * [Занятия и мероприятия](nachalo-raboty/shkola/zanyatiya-i-meropriyatiya.md)
     * [Дополнительные настройки](nachalo-raboty/shkola/dopolnitelnye-nastroiki.md)
     * [Сотрудники](nachalo-raboty/shkola/sotrudniki.md)
     * [Уведомления](nachalo-raboty/shkola/uvedomleniya.md)
