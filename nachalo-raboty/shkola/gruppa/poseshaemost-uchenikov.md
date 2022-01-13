@@ -22,7 +22,9 @@
 
 ![](../../../.gitbook/assets/Screenshot\_273.png)
 
-****
+![](<../../../.gitbook/assets/u4hBkOnVZkc (1).jpg>)
+
+![](../../../.gitbook/assets/Screenshot\_292.png)
 
 **Подробная информация о занятии**&#x20;
 
