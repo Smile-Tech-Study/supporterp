@@ -36,8 +36,6 @@
       * [Компенсация абонементов](abonementy/kompensaciya-abonementov.md)
 * [Клиенты](klienty/README.md)
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
-* [Мероприятия](meropriyatiya/README.md)
-  * [Настраиваемый список занятий и  мероприятий](meropriyatiya/nastraivaemyi-spisok-zanyatii-i-meropriyatii.md)
 * [Ученики](ucheniki.md)
   * [Настраиваемый список учеников](ucheniki/nastraivaemyi-spisok-uchenikov.md)
 * [Организация электронных платежей](organizaciya-elektronnykh-platezhei/README.md)
