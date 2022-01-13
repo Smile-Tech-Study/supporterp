@@ -2,7 +2,7 @@
 
 * [Education ERP](README.md)
 * [Начало работы](nachalo-raboty/README.md)
-  * [Page 1](nachalo-raboty/page-1.md)
+  * [Основные понятия](nachalo-raboty/osnovnye-ponyatiya.md)
   * [Роли в системе Education ERP](nachalo-raboty/roli-v-sisteme-education-erp/README.md)
     * [Добавление сотрудников](nachalo-raboty/roli-v-sisteme-education-erp/dobavlenie-sotrudnikov.md)
   * [Школа](nachalo-raboty/shkola/README.md)
