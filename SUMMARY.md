@@ -37,7 +37,7 @@
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
 * [Мероприятия](meropriyatiya/README.md)
   * [Настраиваемый список мероприятий](meropriyatiya/nastraivaemyi-spisok-meropriyatii.md)
-* [Page 1](page-1.md)
+* [Занятия](zanyatiya.md)
 * [Ученики](ucheniki.md)
   * [Настраиваемый список учеников](ucheniki/nastraivaemyi-spisok-uchenikov.md)
 * [Организация электронных платежей](organizaciya-elektronnykh-platezhei/README.md)
