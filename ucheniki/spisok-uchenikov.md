@@ -30,4 +30,4 @@
 Полученную таблицу можно отправить на печать или экспортировать в файл Excel. Также есть возможность разослать [уведомления](../uvedomleniya/rassylka-uvedomlenii.md) по выбранному списку учеников.
 {% endhint %}
 
-![](<../.gitbook/assets/image (47).png>)
+![](<../.gitbook/assets/image (47) (1).png>)
