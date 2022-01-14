@@ -36,6 +36,7 @@
       * [Заморозка абонементов](abonementy/zamorozka-abonementov.md)
       * [Компенсация абонементов](abonementy/kompensaciya-abonementov.md)
 * [Клиенты](klienty/README.md)
+  * [Состояние клиентов](klienty/sostoyanie-klientov.md)
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
 * [Ученики](ucheniki.md)
   * [Список учеников](ucheniki/spisok-uchenikov.md)
