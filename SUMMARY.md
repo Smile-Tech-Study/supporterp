@@ -26,7 +26,7 @@
     * [Закрытие школы](nachalo-raboty/shkola/zakrytie-shkoly.md)
     * [Абонементы](abonementy/README.md)
       * [Виды абонементов](abonementy/vidy-abonementov.md)
-      * [Добавление абонементов](nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/README.md)
+      * [Добавление абонементов](abonementy/dobavlenie-abonementov.md)
         * [Абонементы В долг](nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg.md)
       * [Заканчивающиеся абонементы](abonementy/page-2.md)
       * [Ценники](abonementy/cenniki/README.md)
