@@ -38,6 +38,7 @@
       * [Редактирование абонементов](abonementy/redaktirovanie-abonementov.md)
     * [Мероприятия](nachalo-raboty/shkola/meropriyatiya.md)
 * [Клиенты](klienty/README.md)
+  * [Источники заявок](klienty/istochniki-zayavok.md)
   * [Состояние клиентов](klienty/sostoyanie-klientov.md)
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
   * [Личный кабинет клиента](klienty/lichnyi-kabinet-klienta/README.md)
