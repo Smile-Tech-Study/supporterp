@@ -58,7 +58,7 @@ description: Информация обо всех учениках вашей ш
 
 
 
-![](<../.gitbook/assets/image (50).png>)
+![](<../.gitbook/assets/image (50) (1).png>)
 {% endtab %}
 
 {% tab title="Новая группа для девочек" %}
