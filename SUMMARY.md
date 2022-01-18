@@ -57,6 +57,7 @@
     * [Подключать или нет?](organizaciya-elektronnykh-platezhei/podklyuchenie-modul.kassy/dlya-chego-nuzhna-modul-kassa.md)
     * [Где посмотреть чеки?](organizaciya-elektronnykh-platezhei/podklyuchenie-modul.kassy/gde-posmotret-cheki.md)
     * [Как клиент получит чек?](organizaciya-elektronnykh-platezhei/podklyuchenie-modul.kassy/kak-klient-poluchit-chek.md)
+* [Page 1](page-1.md)
 * [Уведомления](uvedomleniya/README.md)
   * [Рассылка уведомлений](uvedomleniya/rassylka-uvedomlenii.md)
   * [Каналы рассылок](uvedomleniya/kanaly-rassylok.md)
