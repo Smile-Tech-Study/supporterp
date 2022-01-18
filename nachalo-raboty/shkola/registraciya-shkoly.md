@@ -16,7 +16,7 @@
 {% hint style="info" %}
 Для получения заявок с[ клиентского сайта](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/LkNFkJQQkijlBXWZTkQ9/master/osnovnye-ponyatiya/page-1)  после регистрации следует нажать кнопку  "Показать школу"**.** Тогда клиенты увидят школу и смогут в неё записаться.&#x20;
 
-Кроме того школа будет доступна всех [публичных списках](../../master/osnovnye-ponyatiya/publichnye-spiski.md).
+Кроме того школа будет доступна во всех [публичных списках](../../master/osnovnye-ponyatiya/publichnye-spiski.md).
 
 А вы получите [уведомление](../../uvedomleniya/) о новых клиентах.&#x20;
 {% endhint %}
