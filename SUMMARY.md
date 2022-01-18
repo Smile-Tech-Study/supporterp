@@ -5,6 +5,7 @@
     * [Лицевой счёт](master/osnovnye-ponyatiya/licevoi-schyot.md)
     * [Профиль](master/osnovnye-ponyatiya/profil.md)
     * [Клиентский сайт](master/osnovnye-ponyatiya/klientskii-sait.md)
+    * [Публичные списки](master/osnovnye-ponyatiya/publichnye-spiski.md)
 * [Начало работы](nachalo-raboty/README.md)
   * [Роли в системе Education ERP](nachalo-raboty/roli-v-sisteme-education-erp/README.md)
     * [Добавление сотрудников](nachalo-raboty/roli-v-sisteme-education-erp/dobavlenie-sotrudnikov.md)
