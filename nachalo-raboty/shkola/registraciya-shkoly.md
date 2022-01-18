@@ -21,4 +21,5 @@
 
 ![](<../../.gitbook/assets/image (50).png>)
 
-Если школа пока не работает, то "Показать школу" можно позже.
+{% embed url="https://www.youtube.com/watch?feature=youtu.be&v=3KW6iQ9jghE" %}
+
