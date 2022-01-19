@@ -46,6 +46,6 @@
 Полученную таблицу можно отправить на печать или экспортировать в файл Excel. Также есть возможность разослать [уведомления](../nachalo-raboty/shkola/uvedomleniya.md) по выбранному списку клиентов.
 {% endhint %}
 
-![](../.gitbook/assets/Screenshot\_257.png)
+![](../.gitbook/assets/Screenshot\_331.png)
 
 {% embed url="https://youtu.be/VBQttTbBbX8" %}
