@@ -46,7 +46,11 @@ description: Воронка продаж
 
 ![](<../.gitbook/assets/Screenshot\_341 (2).png>)
 
+{% hint style="info" %}
 Сотрудники школы должны работать над тем, чтобы клиент как можно дольше оставался в этом состоянии**.**
+{% endhint %}
+
+![](<../.gitbook/assets/Screenshot\_342 (2).png>)
 
 **«Резерв»**&#x20;
 
