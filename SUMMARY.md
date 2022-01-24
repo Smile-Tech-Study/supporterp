@@ -41,7 +41,7 @@
   * [Компенсация абонементов](abonementy/kompensaciya-abonementov.md)
   * [Заморозка абонементов](abonementy/zamorozka-abonementov.md)
   * [Редактирование абонементов](abonementy/redaktirovanie-abonementov.md)
-  * [Отчёты](abonementy/otchyoty.md)
+  * [Отчёты](otchyoty.md)
 * [Клиенты](klienty/README.md)
   * [Источники заявок](klienty/istochniki-zayavok.md)
   * [Состояние клиентов](klienty/sostoyanie-klientov.md)

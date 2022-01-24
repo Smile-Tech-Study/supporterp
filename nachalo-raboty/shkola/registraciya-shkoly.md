@@ -23,6 +23,10 @@
 
 ![](<../../.gitbook/assets/image (50).png>)
 
+{% hint style="info" %}
+Если хотя бы в одноной из групп школы не будет заполнено расписание, школа будет автоматически скрыта.
+{% endhint %}
+
 #### Отправка заявки клиентом и получение уведомления в системе&#x20;
 
 {% embed url="https://www.youtube.com/watch?feature=youtu.be&v=3KW6iQ9jghE" %}
