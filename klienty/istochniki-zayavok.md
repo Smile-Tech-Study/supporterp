@@ -45,3 +45,7 @@
 {% hint style="info" %}
 **Новые заявки** появятся в разделе [**Уведомления**](../uvedomleniya/) **** на дашборде и в главном меню.
 {% endhint %}
+
+{% hint style="info" %}
+Используйте [интеграцию](../integracii/sbor-zayavok-v-instagram/), чтобы автоматически создать карточку клиента в Education ERP.
+{% endhint %}
