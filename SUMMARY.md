@@ -42,6 +42,7 @@
   * [Редактирование абонементов](abonementy/redaktirovanie-abonementov.md)
   * [Отчёты](otchyoty.md)
 * [Клиенты](klienty/README.md)
+  * [Как добавить клиента?](klienty/kak-dobavit-klienta.md)
   * [Источники заявок](klienty/istochniki-zayavok.md)
   * [Состояние клиентов](klienty/sostoyanie-klientov.md)
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
