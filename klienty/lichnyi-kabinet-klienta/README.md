@@ -29,7 +29,7 @@ description: >-
 ![](../../.gitbook/assets/Screenshot\_380.png)
 
 {% hint style="info" %}
-Выберете филиал, в которой хотите записать ребёнка.
+Выберете филиал, в которой хотите записать ученика.
 {% endhint %}
 
 ![](../../.gitbook/assets/Screenshot\_381.png)
