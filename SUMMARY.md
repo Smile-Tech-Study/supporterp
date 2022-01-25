@@ -15,7 +15,6 @@
     * [Дополнительные настройки](nachalo-raboty/shkola/dopolnitelnye-nastroiki.md)
     * [Закрытие школы](nachalo-raboty/shkola/zakrytie-shkoly.md)
     * [Сотрудники](nachalo-raboty/shkola/sotrudniki.md)
-    * [Уведомления](nachalo-raboty/shkola/uvedomleniya.md)
     * [Партнёры](nachalo-raboty/shkola/partnyory.md)
     * [Мероприятия](nachalo-raboty/shkola/meropriyatiya.md)
     * [Группа](nachalo-raboty/shkola/gruppa/README.md)
@@ -83,4 +82,3 @@
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
 * [Оплата абонементов](oplata-abonementov.md)
-* [Untitled](untitled.md)
