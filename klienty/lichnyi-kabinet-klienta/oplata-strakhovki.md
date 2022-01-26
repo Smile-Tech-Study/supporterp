@@ -14,6 +14,16 @@
 
 ![](../../.gitbook/assets/Screenshot\_373.png)
 
+{% hint style="info" %}
+Введите данные о страховании здоровья ребёнка и нажмите "Купить полис".
+
+После оплаты вы сможете скачать полис в своём личном кабинете.
+{% endhint %}
+
 ![](../../.gitbook/assets/Screenshot\_374.png)
+
+{% hint style="info" %}
+Заполните личные данные и нажмите "Оплатить полис".
+{% endhint %}
 
 ![](../../.gitbook/assets/Screenshot\_375.png)
