@@ -60,5 +60,5 @@ description: Способ регистрации клиентов
 По способу регистрации клиентов можно отсортировать, используя[ настраиваемый ](nastraivaemyi-spisok-klientov.md)[список.](nastraivaemyi-spisok-klientov.md)
 {% endhint %}
 
-
+![](<../.gitbook/assets/Screenshot\_405 (2).png>)
 
