@@ -11,6 +11,12 @@
 ![](../../.gitbook/assets/Screenshot\_406.png)
 
 {% hint style="info" %}
+Укажите сумму к пополнению, **нажмите** кнопку "Пополнить".
+{% endhint %}
+
+![](../../.gitbook/assets/Screenshot\_416.png)
+
+{% hint style="info" %}
 В появившимся окне оплаты **выберете** пункт "Получить счёт"
 {% endhint %}
 
