@@ -61,7 +61,7 @@
 ![](../../.gitbook/assets/Screenshot\_418.png)
 
 {% hint style="info" %}
-Если в школе  подключены **** страховки, то 10%
+Если в школе  подключены **** [страховки](../../klienty/lichnyi-kabinet-klienta/oplata-strakhovki.md), то 10%
 
 от электронной продажи так же поступает на лицевой счёт франчайзи.&#x20;
 
