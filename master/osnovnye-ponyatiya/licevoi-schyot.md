@@ -55,6 +55,12 @@
 {% embed url="https://www.youtube.com/watch?v=HzLDyEpIuEw" %}
 
 {% hint style="info" %}
+Отследить расходы и поступления можно на странице Лицевой счёт.
+{% endhint %}
+
+![](../../.gitbook/assets/Screenshot\_418.png)
+
+{% hint style="info" %}
 Если в школе  подключены **** страховки, то 10%
 
 от электронной продажи так же поступает на лицевой счёт франчайзи.&#x20;
