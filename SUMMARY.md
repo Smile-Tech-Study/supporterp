@@ -82,3 +82,5 @@
 * [Чат-бот Афина](chat-bot-afina/README.md)
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
+* [Новости Education ERP](novosti-education-erp/README.md)
+  * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
