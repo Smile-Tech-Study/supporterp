@@ -4,8 +4,8 @@ description: Публикация обновлений системы
 
 # 📰 Новости Education ERP
 
-{% content-ref url="../master/osnovnye-ponyatiya/klientskii-sait.md" %}
-[klientskii-sait.md](../master/osnovnye-ponyatiya/klientskii-sait.md)
+{% content-ref url="../integracii/voximplant/voximplant-vkhodyashie-zvonki.md" %}
+[voximplant-vkhodyashie-zvonki.md](../integracii/voximplant/voximplant-vkhodyashie-zvonki.md)
 {% endcontent-ref %}
 
 {% content-ref url="zamorozka-dlya-kazhdogo-abonementa.md" %}
