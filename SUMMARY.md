@@ -64,7 +64,7 @@
   * [Стратегия рассылки](uvedomleniya/strategiya-rassylki.md)
 * [Интеграции](integracii/README.md)
   * [VoxImplant](integracii/voximplant/README.md)
-    * [VoxImplant исходящие звонки](integracii/voximplant/voximplant-iskhodyashie-zvonki.md)
+    * [VoxImplant исходящие звонки](integracii/voximplant.md)
     * [VoxImplant входящие звонки](integracii/voximplant/voximplant-vkhodyashie-zvonki.md)
   * [Marquiz](integracii/marquiz/README.md)
     * [Как установить?](integracii/marquiz/kak-ustanovit.md)
