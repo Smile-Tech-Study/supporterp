@@ -6,7 +6,7 @@ description: >-
 
 # Education ERP
 
-Добро пожаловать в систему [**Education ERP**](https://education-erp.com)!
+Добро пожаловать в систему [**Education ERP**](https://education-erp.com/)!
 
 В нашей системы вы сможете  организовать работу школы или целой сети школ:
 
