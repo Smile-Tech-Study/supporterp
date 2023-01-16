@@ -83,3 +83,4 @@
 * [📰 Новости Education ERP](novosti-education-erp/README.md)
   * [Массовая заморозка абонементов группы](novosti-education-erp/massovaya-zamorozka-abonementov-gruppy.md)
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
+* [Кеш браузера](https://app.gitbook.com/s/fEAQaa7lpEa3qgwVTlEe/chasto-zadavaemye-voprosy/kesh-brauzera-chto-eto-i-zachem-ego-ochishat)
