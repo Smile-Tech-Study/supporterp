@@ -80,7 +80,7 @@
 * [Чат-бот Афина](chat-bot-afina/README.md)
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
+* [Кэш браузера - что это и зачем его очищать](kesh-brauzera-chto-eto-i-zachem-ego-ochishat.md)
 * [📰 Новости Education ERP](novosti-education-erp/README.md)
   * [Массовая заморозка абонементов группы](novosti-education-erp/massovaya-zamorozka-abonementov-gruppy.md)
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
-* [Кеш браузера](https://informa.gitbook.io/odin/chasto-zadavaemye-voprosy/kesh-brauzera-chto-eto-i-zachem-ego-ochishat)
