@@ -82,5 +82,6 @@
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
 * [Кэш браузера - что это и зачем его очищать](kesh-brauzera-chto-eto-i-zachem-ego-ochishat.md)
 * [📰 Новости Education ERP](novosti-education-erp/README.md)
+  * [Обновление личного кабинета клиента](novosti-education-erp/obnovlenie-lichnogo-kabineta-klienta.md)
   * [Массовая заморозка абонементов группы](novosti-education-erp/massovaya-zamorozka-abonementov-gruppy.md)
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
