@@ -15,7 +15,5 @@
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://youtu.be/ItLWzoTqNCc" %}
-Обзор личного кабинета
-{% endembed %}
 
 Работы по обновлению функционала ещё продолжаются.
