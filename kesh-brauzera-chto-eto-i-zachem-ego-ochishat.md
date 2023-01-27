@@ -64,7 +64,7 @@
 
 ![](<.gitbook/assets/image (6).png>)
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1).png>)
 {% endtab %}
 
 {% tab title="Microsoft Edge" %}
@@ -140,7 +140,7 @@
 6. Выбираем временной диапазон "Все время"
 7. Нажимаем "Удалить данные"
 
-![](<.gitbook/assets/image (1).png>)
+![](<.gitbook/assets/image (1) (2).png>)
 {% endtab %}
 
 {% tab title="Safari" %}
