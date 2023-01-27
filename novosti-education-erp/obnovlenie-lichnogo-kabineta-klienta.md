@@ -14,6 +14,6 @@
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/ItLWzoTqNCc" %}
+{% embed url="https://www.youtube.com/watch?v=ItLWzoTqNCc" %}
 
 Работы по обновлению функционала ещё продолжаются.
