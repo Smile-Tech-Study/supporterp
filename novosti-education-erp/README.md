@@ -4,10 +4,4 @@ description: Публикация обновлений системы
 
 # 📰 Новости Education ERP
 
-{% content-ref url="../integracii/voximplant/voximplant-vkhodyashie-zvonki.md" %}
-[voximplant-vkhodyashie-zvonki.md](../integracii/voximplant/voximplant-vkhodyashie-zvonki.md)
-{% endcontent-ref %}
-
-{% content-ref url="zamorozka-dlya-kazhdogo-abonementa.md" %}
-[zamorozka-dlya-kazhdogo-abonementa.md](zamorozka-dlya-kazhdogo-abonementa.md)
-{% endcontent-ref %}
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td align="center"><h2>Личный кабинет клиента</h2></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot at Feb 13 21-08-48 (2).png">Screenshot at Feb 13 21-08-48 (2).png</a></td><td><a href="obnovlenie-lichnogo-kabineta-klienta.md">obnovlenie-lichnogo-kabineta-klienta.md</a></td></tr><tr><td align="center"><h2>Уникальные статусы для клиентов</h2></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot at Feb 13 21-08-48.png">Screenshot at Feb 13 21-08-48.png</a></td><td><a href="unikalnye-statusy-dlya-klientov.md">unikalnye-statusy-dlya-klientov.md</a></td></tr><tr><td align="center"><h2>Заморозка для каждого абонемента</h2></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot at Feb 13 21-08-48.png">Screenshot at Feb 13 21-08-48.png</a></td><td><a href="zamorozka-dlya-kazhdogo-abonementa.md">zamorozka-dlya-kazhdogo-abonementa.md</a></td></tr><tr><td align="center"><h2>Массовая заморозка абонементов группы</h2></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot at Feb 13 21-08-48.png">Screenshot at Feb 13 21-08-48.png</a></td><td><a href="massovaya-zamorozka-abonementov-gruppy.md">massovaya-zamorozka-abonementov-gruppy.md</a></td></tr><tr><td align="center"><h2>VoxImplant входящие звонки</h2></td><td></td><td></td><td><a href="../.gitbook/assets/Screenshot at Feb 13 21-08-48.png">Screenshot at Feb 13 21-08-48.png</a></td><td></td></tr></tbody></table>
