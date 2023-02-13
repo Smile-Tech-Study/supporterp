@@ -1,10 +1,10 @@
 ---
-description: Добавлена возможность использовать свои статусы взамен стандартных
+description: Добавлена возможность использовать свои  названия статусов взамен стандартных
 ---
 
 # Уникальные статусы для клиентов
 
-Ранее в Education ERP были 9 стандартных статусов. [Подробнее](unikalnye-statusy-dlya-klientov.md#standartnye-statusy-v-education-erp)
+Ранее в Education ERP были только 9 стандартных статусов. [Подробнее](unikalnye-statusy-dlya-klientov.md#standartnye-statusy-v-education-erp)
 
 К нам часто приходили запросы от франчайзи, что для их школ набор стандартных статусов не отражает суть той работы, которая  в данный момент проводится с клиентом.
 
@@ -14,15 +14,15 @@ description: Добавлена возможность использовать 
 
 На странице Клиенты - Все клиенты нажмите кнопку "Настройки статусов".
 
-<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Далее в блоке с базовым статусом, для которого хотите указать уникальное название, нажмите кнопку "Добавить новый".
 
-<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Введите название статуса и сохраните.
 
-<figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Если в системы уже был аналогичный статус, то при добавлении будет предложено использовать его.
@@ -32,7 +32,7 @@ description: Добавлена возможность использовать 
 
 Включите свой созданный статус и все клиенты, кто раньше был в статусе Новый теперь будут в статусе "Новичок".&#x20;
 
-<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Для автоматического перехода можно выбрать только 1 статус.
@@ -50,7 +50,7 @@ description: Добавлена возможность использовать 
 
 ### Удаление статуса
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Обязательные условия, при котором кнопка "Удалить" доступна для статуса:&#x20;
 

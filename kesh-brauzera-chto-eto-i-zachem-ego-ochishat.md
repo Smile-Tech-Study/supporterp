@@ -44,7 +44,7 @@
 
 
 
-![](<.gitbook/assets/image (22).png>)
+![](<.gitbook/assets/image (22) (3).png>)
 
 ![](<.gitbook/assets/image (16).png>)
 {% endtab %}
@@ -150,6 +150,6 @@
 2. Выбираем Safari
 3. Выбираем "Очистить историю и данные"
 
-![](<.gitbook/assets/image (11) (2).png>)
+![](<.gitbook/assets/image (11) (1).png>)
 {% endtab %}
 {% endtabs %}
