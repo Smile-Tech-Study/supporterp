@@ -150,6 +150,6 @@
 2. Выбираем Safari
 3. Выбираем "Очистить историю и данные"
 
-![](<.gitbook/assets/image (11).png>)
+![](<.gitbook/assets/image (11) (2).png>)
 {% endtab %}
 {% endtabs %}
