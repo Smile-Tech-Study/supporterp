@@ -4,7 +4,7 @@ description: Добавлена возможность использовать 
 
 # Уникальные статусы для клиентов
 
-![](../.gitbook/assets/Статусы.gif)Ранее в Education ERP были только 9 стандартных статусов. [Подробнее](unikalnye-statusy-dlya-klientov.md#standartnye-statusy-v-education-erp)
+Ранее в Education ERP были только 9 стандартных статусов. [Подробнее](unikalnye-statusy-dlya-klientov.md#standartnye-statusy-v-education-erp)
 
 К нам часто приходили запросы от франчайзи, что для их школ набор стандартных статусов не отражает суть той работы, которая  в данный момент проводится с клиентом.
 
@@ -21,6 +21,10 @@ description: Добавлена возможность использовать 
 <figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Введите название статуса и сохраните.
+
+{% hint style="info" %}
+Называйте статусы корректно и понятно.
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
