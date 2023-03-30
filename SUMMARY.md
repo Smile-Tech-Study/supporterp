@@ -77,7 +77,7 @@
   * [Контроль](inventarizaciya/kontrol.md)
   * [Товары](inventarizaciya/tovary.md)
   * [Заказы](inventarizaciya/zakazy.md)
-  * [📌 Складской учёт](inventarizaciya/skladskoi-uchyot.md)
+  * [Складской учёт](inventarizaciya/skladskoi-uchyot.md)
 * [Чат-бот Афина](chat-bot-afina/README.md)
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
