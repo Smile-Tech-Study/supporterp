@@ -25,7 +25,7 @@
 
 ![](<.gitbook/assets/image (17).png>)
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (2).png>)
 
 ![](<.gitbook/assets/image (10).png>)
 {% endtab %}

@@ -55,7 +55,7 @@
 
 ![](<../.gitbook/assets/Screenshot\_236 (1).png>)
 
-****
+
 
 **Дополнительные инструкции для подключения Афины к странице ВКонтакте.**
 
@@ -74,7 +74,7 @@
 4\) Перейдите в раздел <mark style="color:blue;">**Настройки**</mark> - <mark style="color:blue;">**Разделы**</mark>. Убедитесь, что напротив слова <mark style="color:blue;">**Фотографии**</mark> написано <mark style="color:blue;">**Открытые**</mark> или <mark style="color:blue;">**Ограниченные**</mark>. Если это не так, щелкните по этой надписи и измените состояние на подходящее, затем нажмите на кнопку <mark style="color:blue;">**Сохранить**</mark>.
 
 {% hint style="info" %}
-Фотографии должны быть Ограниченные или Открытые, **НО **<mark style="color:blue;">**не**</mark>**  **<mark style="color:blue;">**Выключены**</mark>
+Фотографии должны быть Ограниченные или Открытые, **НО **<mark style="color:blue;">**не**</mark> <mark style="color:blue;">**Выключены**</mark>
 {% endhint %}
 
 ![](<../.gitbook/assets/Screenshot\_242 (2).png>)

@@ -16,7 +16,11 @@
 
 ![](../.gitbook/assets/Screenshot\_200.png)
 
-![](../.gitbook/assets/Screenshot\_202.png)
+<div align="right">
+
+<img src="../.gitbook/assets/Screenshot_202.png" alt="">
+
+</div>
 
 **4. Отображение списанного товара**
 
