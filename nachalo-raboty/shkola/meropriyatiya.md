@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt=""><figcaption></figcaption></figure>
 
-Далее нажл нажать на "+Мероприятие" на том дне календаря, когда его надо добавить.&#x20;
+Далее надо нажать на "+Мероприятие" на том дне календаря, когда его надо добавить.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt=""><figcaption></figcaption></figure>
 
