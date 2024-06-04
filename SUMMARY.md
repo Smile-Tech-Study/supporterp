@@ -27,7 +27,6 @@
       * [Закрытие группы](nachalo-raboty/shkola/gruppa/zakrytie-gruppy.md)
       * [Прибыльность](nachalo-raboty/shkola/gruppa/pribylnost.md)
       * [Настраиваемый список групп](nachalo-raboty/shkola/gruppa/nastraivaemyi-spisok-grupp.md)
-    * [Занятия и мероприятия](nachalo-raboty/shkola/zanyatiya-i-meropriyatiya.md)
 * [Абонементы](abonementy/README.md)
   * [Виды абонементов](abonementy/vidy-abonementov.md)
   * [Добавление абонементов](abonementy/dobavlenie-abonementov.md)
