@@ -12,3 +12,6 @@
 
 <figure><img src="../../.gitbook/assets/image (67).png" alt=""><figcaption></figcaption></figure>
 
+Далее можно перейти на страницу мероприятия, чтобы прикрепить к мероприятию сотрудников, добавить ценник, отредактировать дату/время, добавить учеников/группу к участию.
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
