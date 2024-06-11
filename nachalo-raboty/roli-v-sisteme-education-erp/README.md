@@ -23,7 +23,7 @@
 Основные возможности:
 
 * управление [школой](../shkola/) (школами);
-* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/), Facebook и Instagram;
+* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/);
 * регистрация [эквайринга](../../organizaciya-elektronnykh-platezhei/podklyuchenie-onlain-platezhei.md) (актуально для России и Беларуси);
 * работа с торговой точкой Модуль.Кассы (актуально для России);
 * работа с [клиентами](../../klienty/), [учениками](../../ucheniki.md), [сотрудниками](../shkola/sotrudniki.md);
@@ -31,7 +31,6 @@
 * пополнение [лицевого счета](../../master/osnovnye-ponyatiya/licevoi-schyot.md);
 * работа с [абонементами](../../abonementy/);
 * предложение новостей для публикации на [клиентском сайте](../../master/osnovnye-ponyatiya/klientskii-sait.md), если это актуально для его типа школ;
-* организация сетевых турниров;
 * изначально является получателем всех уведомлений в своей школе, обязанность можно передать, изменив получателя смс на странице школы.
 {% endtab %}
 
@@ -41,7 +40,7 @@
 Основные возможности:
 
 * управление [школой](../shkola/) (школами), в которые будет добавлен;
-* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/), Facebook и Instagram;
+* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/);
 * работа с [клиентами](../../klienty/), [учениками](../../ucheniki.md), [сотрудниками](../shkola/sotrudniki.md);
 * настройка автоматический [уведомлений](../../uvedomleniya/) для каждой школы, где имеется роль Управляющего;
 * работа с [абонементами](../../abonementy/).
@@ -53,7 +52,8 @@
 Основные возможности:
 
 * добавление [абонементов](../../abonementy/) и прием [оплаты](../../abonementy/sposoby-oplaty.md) по ним;
-* выставление [отметок о посещении](../shkola/gruppa/poseshaemost-uchenikov.md) ученикам:
+* выставление [отметок о посещении](../shkola/gruppa/poseshaemost-uchenikov.md) ученикам;
+* выставление [отметок о работе педагогов](../shkola/gruppa/rabota-pedagogov.md);
 * доступна отметка посещений с помощью QR-кода. QR- код доступен в клиентском приложении или ученику может быть выдана QR-карта (не для всех типов школ);
 * доступна отметка посещений на странице [группы](../shkola/gruppa/).
 * выставление отметок о работе педагога;
