@@ -60,9 +60,9 @@
 6. Ставим или снимаем галочки так, чтобы осталась галочка только на пункте "Кэшированные изображения и файлы"
 7. Нажимаем "Удалить данные"
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (2).png>)
 
-![](<.gitbook/assets/image (6).png>)
+![](<.gitbook/assets/image (6) (2).png>)
 
 ![](<.gitbook/assets/image (1) (2) (1).png>)
 {% endtab %}
@@ -82,9 +82,9 @@
 
 ![](<.gitbook/assets/image (21).png>)
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
-![](<.gitbook/assets/image (5).png>)
+![](<.gitbook/assets/image (5) (1).png>)
 {% endtab %}
 
 {% tab title="Mozilla Firefox" %}
