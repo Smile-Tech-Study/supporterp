@@ -30,6 +30,7 @@
 * [Абонементы](abonementy/README.md)
   * [Виды абонементов](abonementy/vidy-abonementov.md)
   * [Добавление абонементов](abonementy/dobavlenie-abonementov.md)
+    * [Абонементы из ценников школы](abonementy/dobavlenie-abonementov/abonementy-iz-cennikov-shkoly.md)
     * [Абонементы В долг](nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg.md)
   * [Заканчивающиеся абонементы](abonementy/page-2.md)
   * [Ценники](abonementy/cenniki/README.md)
