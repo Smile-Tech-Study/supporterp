@@ -81,6 +81,7 @@
   * [Что может Афина?](chat-bot-afina/chto-mozhet-afina.md)
   * [Афина Вконтакте](chat-bot-afina/afina-vkontakte.md)
 * [Кэш браузера - что это и зачем его очищать](kesh-brauzera-chto-eto-i-zachem-ego-ochishat.md)
+* [ЛК клиента на iPhone](lk-klienta-na-iphone.md)
 * [📰 Новости Education ERP](novosti-education-erp/README.md)
   * [Уникальные статусы для клиентов](novosti-education-erp/unikalnye-statusy-dlya-klientov.md)
   * [Массовая заморозка абонементов группы](novosti-education-erp/massovaya-zamorozka-abonementov-gruppy.md)
