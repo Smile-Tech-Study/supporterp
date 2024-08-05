@@ -51,6 +51,7 @@
   * [Список учеников](ucheniki/spisok-uchenikov.md)
 * [Организация электронных платежей](organizaciya-elektronnykh-platezhei/README.md)
   * [Подключение онлайн-платежей для интернет магазина](organizaciya-elektronnykh-platezhei/podklyuchenie-onlain-platezhei-dlya-internet-magazina.md)
+  * [Возврат клиенту после онлайн-оплаты](organizaciya-elektronnykh-platezhei/vozvrat-klientu-posle-onlain-oplaty.md)
 * [Уведомления](uvedomleniya/README.md)
   * [Рассылка уведомлений](uvedomleniya/rassylka-uvedomlenii.md)
   * [Каналы рассылок](uvedomleniya/kanaly-rassylok.md)
