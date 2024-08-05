@@ -24,7 +24,7 @@
 
 * управление [школой](../shkola/) (школами);
 * настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/);
-* регистрация [эквайринга](../../organizaciya-elektronnykh-platezhei/podklyuchenie-onlain-platezhei.md) (актуально для России и Беларуси);
+* регистрация [эквайринга](../../organizaciya-elektronnykh-platezhei/podklyuchenie-onlain-platezhei-na-stranice-shkoly.md) (актуально для России и Беларуси);
 * работа с торговой точкой Модуль.Кассы (актуально для России);
 * работа с [клиентами](../../klienty/), [учениками](../../ucheniki.md), [сотрудниками](../shkola/sotrudniki.md);
 * настройка автоматический [уведомлений](../../uvedomleniya/) для каждой школы;
