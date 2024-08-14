@@ -64,5 +64,3 @@ Education ERP теперь подключен напрямую к сервису
 Оплата назначенных [ученику](../ucheniki.md) [абонементов](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg).
 
 Приобретение билетов на [мероприятия](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/meropriyatiya).
-
-[Покупка страховки](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/klienty/lichnyi-kabinet-klienta/page-1) - если это актуально для типа школ франчайзи.&#x20;
