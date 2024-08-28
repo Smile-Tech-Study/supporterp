@@ -9,7 +9,7 @@ description: >-
 Для настройки необходимо со страницы школы найти блок интеграция с ВКонтакте, нажать на "Управление интеграцией". \
 
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее выполнить действия по следующей инструкции:
 
@@ -23,5 +23,9 @@ description: >-
 5. Внесите данные со страницы в форму ниже. 'group\_id' нужно внести в поле 'Идентификатор группы', а 'Строка, которую должен вернуть сервер' нужно внести в поле 'Код подтверждения'.&#x20;
 
 <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+Для клиентов форма будет выглядеть следующим образом:&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Когда создается новая заявка через форму, она отображается во вкладке "Новые" как и все другие вновь созданные заявки.
