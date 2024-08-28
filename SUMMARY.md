@@ -43,6 +43,7 @@
 * [Клиенты](klienty/README.md)
   * [Как добавить клиента?](klienty/kak-dobavit-klienta.md)
   * [Источники заявок](klienty/istochniki-zayavok.md)
+  * [Форма сбора заявок для ВКонтакте](klienty/forma-sbora-zayavok-dlya-vkontakte.md)
   * [Состояние клиентов](klienty/sostoyanie-klientov.md)
   * [Настраиваемый список клиентов](klienty/nastraivaemyi-spisok-klientov.md)
   * [Личный кабинет клиента](klienty/lichnyi-kabinet-klienta/README.md)

@@ -4,7 +4,7 @@
 
 Сотрудников можно добавить из главного меню  Сотрудники - Добавить сотрудника.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Добавление педагога**
 
@@ -19,7 +19,7 @@
 **Добавление Управляющего**\
 Управляющий - сотрудник школы, у которого функции работы в системе Education ERP аналогичны функциям франчайзи (нет возможности отправить заявку на подключение электронных платежей, зарегистрировать модуль-кассу и пополнить лицевой счёт). Эта роль нужна, если школы франчайзи в разных городах, или в школе нужен директор. Зарегистрированный Управляющий может быть прикреплен к одной или нескольким вашим школам. Информация Управляющему будет доступна только по прикрепленной школе или школам. Прикрепить/проверить прикрепление зарегистрированного Управляющего можно на странице Школы в блоке "Управляющие" и на странице его профиля в блоке "Работа управляющего в школах".
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Добавление фронт-менеджера**
 
@@ -27,17 +27,17 @@
 
 Для изменения ставки необходимо со страницы школы нажать на карандашик возле сотрудника.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее установить ставку, процент с продажи абонементов, включить ставку, нажать на сохранить.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Добавление Маркетолога**\
 Роль "Маркетолог" устанавливается для сотрудников, которые работают с клиентами и занимаются привлечением в школу новых клиентов. Маркетолог должен быть прикреплен к Вашей школе или школам.\
 Прикрепить Маркетолога можно на странице школы в блоке "Маркетологи" или на странице его профиля в блоке "История работы маркетолога в школах".
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
