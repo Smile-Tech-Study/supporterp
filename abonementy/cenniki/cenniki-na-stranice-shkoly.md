@@ -10,7 +10,7 @@ description: >-
 
 Перейдите на страницу школы&#x20;
 
-![](<../../.gitbook/assets/image (6) (1).png>)
+![](<../../.gitbook/assets/image (6) (1) (1).png>)
 
 ![Добавьте ценник ](<../../.gitbook/assets/image (8) (1).png>)
 
