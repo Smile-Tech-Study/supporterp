@@ -19,7 +19,7 @@ Education ERP теперь подключен напрямую к сервису
 
 <figure><img src="../.gitbook/assets/image (78).png" alt=""><figcaption></figcaption></figure>
 
-2. В нижней части страницы в блоке "Юридические лица для электронных продаж" надо нажать на кнопку "Отправить заявку на подключение онлайн-платежей".
+2. В нижней части страницы  нажать на кнопку "Отправить заявку на подключение онлайн-платежей".
 
 <figure><img src="../.gitbook/assets/image (77).png" alt=""><figcaption></figcaption></figure>
 
