@@ -8,13 +8,13 @@
 Чтобы купить полис, надо зайти в профиль ученика и выбрать "Застраховать".
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Далее следует ввести данные о страховании здоровья ребёнка и нажмите "Купить полис". После оплаты можно скачать полис в своём личном кабинете в формате pdf.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 После надо заполнить все личные данные и нажать "Оплатить полис".

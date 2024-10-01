@@ -57,6 +57,10 @@ Education ERP теперь подключен напрямую к сервису
 
 <figure><img src="../.gitbook/assets/image (81).png" alt=""><figcaption><p>Пример чека, получаемого клиентом</p></figcaption></figure>
 
+Просмотр чека доступен для каждого абонемента, купленного через эквайринг Т-Банка. Для этого в блок "Абонемент" добавлена кнопка "Открыть чек".
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="329"><figcaption></figcaption></figure>
+
 ## Использование электронных платежей
 
 Покупка абонементов - из [ценников](../abonementy/cenniki/).
