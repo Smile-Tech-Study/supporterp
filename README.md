@@ -15,7 +15,6 @@ description: >-
 * [контролировать посещаемость учеников](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/poseshaemost-uchenikov);
 * [контролировать работу сотрудников](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/rabota-pedagogov);
 * улучшать образование сотрудников;
-* отмечать посещения, используя QR-код;
 * [планировать мероприятия в школе](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/meropriyatiya);
 * [выдавать и контролировать домашние задания ученикам](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/domashnie-zadaniya);
 * получать оценки и отзывы о работе педагогов;
