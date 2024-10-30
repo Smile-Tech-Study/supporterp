@@ -17,6 +17,7 @@
     * [Сотрудники](nachalo-raboty/shkola/sotrudniki.md)
     * [Партнёры](nachalo-raboty/shkola/partnyory.md)
     * [Мероприятия](nachalo-raboty/shkola/meropriyatiya.md)
+    * [Список занятий и мероприятий](nachalo-raboty/shkola/spisok-zanyatii-i-meropriyatii.md)
     * [Группа](nachalo-raboty/shkola/gruppa/README.md)
       * [Добавление группы](nachalo-raboty/shkola/gruppa/dobavlenie-grupp.md)
       * [Редактирование](nachalo-raboty/shkola/gruppa/redaktirovanie.md)
