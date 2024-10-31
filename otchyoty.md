@@ -26,6 +26,10 @@
 
 ![](.gitbook/assets/Screenshot\_330.png)
 
+В расширенных настройках доступен поиск абонементов по юрлицу и эквайрингу.&#x20;
+
+<figure><img src=".gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+
 **Примеры:**
 
 {% tabs %}
