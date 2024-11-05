@@ -23,7 +23,7 @@
 Основные возможности:
 
 * управление [школой](../shkola/) (школами);
-* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/);
+* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](broken-reference);
 * регистрация [эквайринга](broken-reference) (актуально для России и Беларуси);
 * работа с торговой точкой Модуль.Кассы (актуально для России);
 * работа с [клиентами](../../klienty/), [учениками](../../ucheniki.md), [сотрудниками](../shkola/sotrudniki.md);
@@ -40,7 +40,7 @@
 Основные возможности:
 
 * управление [школой](../shkola/) (школами), в которые будет добавлен;
-* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](../../integracii/voximplant/);
+* настройка интеграций с [Чат-бот Афина](../../chat-bot-afina/),  [ВКонтакте](../../chat-bot-afina/afina-vkontakte.md), [Marquiz](../../integracii/marquiz/), [VoxImplant](broken-reference);
 * работа с [клиентами](../../klienty/), [учениками](../../ucheniki.md), [сотрудниками](../shkola/sotrudniki.md);
 * настройка автоматический [уведомлений](../../uvedomleniya/) для каждой школы, где имеется роль Управляющего;
 * работа с [абонементами](../../abonementy/).
