@@ -9,7 +9,7 @@ description: >-
 Для настройки необходимо со страницы школы найти блок интеграция с ВКонтакте, нажать на "Управление интеграцией". \
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее выполнить действия по следующей инструкции:
 
