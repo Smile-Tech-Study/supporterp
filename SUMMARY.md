@@ -51,6 +51,7 @@
     * [Оплата страховки](klienty/lichnyi-kabinet-klienta/oplata-strakhovki.md)
 * [Ученики](ucheniki.md)
   * [Список учеников](ucheniki/spisok-uchenikov.md)
+  * [Домашние задания](ucheniki/domashnie-zadaniya.md)
 * [Организация электронных платежей](organizaciya-elektronnykh-platezhei/README.md)
   * [Подключение онлайн-платежей для интернет магазина](organizaciya-elektronnykh-platezhei/podklyuchenie-onlain-platezhei-dlya-internet-magazina.md)
   * [Возврат клиенту после онлайн-оплаты](organizaciya-elektronnykh-platezhei/vozvrat-klientu-posle-onlain-oplaty.md)
