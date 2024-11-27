@@ -23,7 +23,6 @@
       * [Редактирование](nachalo-raboty/shkola/gruppa/redaktirovanie.md)
       * [Работа педагогов](nachalo-raboty/shkola/gruppa/rabota-pedagogov.md)
       * [Посещаемость учеников](nachalo-raboty/shkola/gruppa/poseshaemost-uchenikov.md)
-      * [Материалы для клиентов](nachalo-raboty/shkola/gruppa/materialy-dlya-klientov.md)
       * [Домашние задания](nachalo-raboty/shkola/gruppa/domashnie-zadaniya.md)
       * [Закрытие группы](nachalo-raboty/shkola/gruppa/zakrytie-gruppy.md)
       * [Прибыльность](nachalo-raboty/shkola/gruppa/pribylnost.md)
