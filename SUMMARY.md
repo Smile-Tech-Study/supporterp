@@ -29,6 +29,7 @@
       * [Настраиваемый список групп](nachalo-raboty/shkola/gruppa/nastraivaemyi-spisok-grupp.md)
 * [Абонементы](abonementy/README.md)
   * [Виды абонементов](abonementy/vidy-abonementov.md)
+  * [Подписка](abonementy/podpiska.md)
   * [Добавление абонементов](abonementy/dobavlenie-abonementov.md)
     * [Абонементы из ценников школы](abonementy/dobavlenie-abonementov/abonementy-iz-cennikov-shkoly.md)
     * [Абонементы "В долг"](nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg.md)

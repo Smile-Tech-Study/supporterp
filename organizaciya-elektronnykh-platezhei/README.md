@@ -21,12 +21,12 @@ Education ERP теперь подключен напрямую к сервису
 
 2. В нижней части страницы  нажать на кнопку "Добавить юридическое лицо".
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 3. Заполнить данные своего юридического лица. Также необходимо указать реквизиты расчетного счета, на который будет поступать оплата.
 4. &#x20;Перейти на страницу школы, нажать на карандашик в поле "Юридическое лицо"  и выбрать юр. лицо (С припиской "Т-Банк").
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В течении нескольких минут будут подключены онлайн-оплаты и клиенты смогут приобрести абонементы через личный кабинет, если вы назначите ученикам абонементы с пометкой "[В долг](../nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg.md)" или покажите [ценники для электронных продаж в ЛК клиента](../abonementy/cenniki/).
 
@@ -60,12 +60,12 @@ Education ERP теперь подключен напрямую к сервису
 
 Просмотр чека доступен для каждого абонемента, купленного через эквайринг Т-Банка. Для этого в блок "Абонемент" добавлена кнопка "Открыть чек".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ## Использование электронных платежей
 
 Покупка абонементов - из [ценников](../abonementy/cenniki/).
 
-Оплата назначенных [ученику](../ucheniki.md) [абонементов](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg).
+Оплата назначенных [ученику](../ucheniki.md) [абонементов](https://app.gitbook.com/s/-MkFNHt9T_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/abonementy/dobavlenie-abonementov/abonementy-v-dolg).
 
-Приобретение билетов на [мероприятия](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/meropriyatiya).
+Приобретение билетов на [мероприятия](https://app.gitbook.com/s/-MkFNHt9T_SX73MEMmIU/c/cgKOyxkqHa8Qxc8VSvAr/nachalo-raboty/shkola/meropriyatiya).

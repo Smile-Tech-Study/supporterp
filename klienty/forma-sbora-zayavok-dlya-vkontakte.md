@@ -9,20 +9,20 @@ description: >-
 Для настройки необходимо со страницы школы найти блок интеграция с ВКонтакте, нажать на "Управление интеграцией". \
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее выполнить действия по следующей инструкции:
 
 1. Откройте страницу школы в ВКонтакте.
 2. Перейдите в раздел Управление
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3. Когда откроется страница с настройками группы, перейдите в раздел 'Работа с API'.
 4. На открывшейся странице выберите вкладку 'CallBack API'
 5. Внесите данные со страницы в форму ниже. 'group\_id' нужно внести в поле 'Идентификатор группы', а 'Строка, которую должен вернуть сервер' нужно внести в поле 'Код подтверждения'.&#x20;
 
-<figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Для клиентов форма будет выглядеть следующим образом:&#x20;
 
