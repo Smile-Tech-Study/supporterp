@@ -85,3 +85,4 @@
   * [Массовая заморозка абонементов группы](novosti-education-erp/massovaya-zamorozka-abonementov-gruppy.md)
   * [Обновление личного кабинета клиента](novosti-education-erp/obnovlenie-lichnogo-kabineta-klienta.md)
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
+  * [Как сформировать чек при наличной оплате?](novosti-education-erp/kak-sformirovat-chek-pri-nalichnoi-oplate.md)
