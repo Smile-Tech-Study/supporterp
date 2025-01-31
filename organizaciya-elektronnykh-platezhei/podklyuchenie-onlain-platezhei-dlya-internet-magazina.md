@@ -2,4 +2,4 @@
 
 Для настройки электронных платежей перейдите в раздел Управление школой - Складской учёт - Настройки - Электронные платежи и выберите  юр. лицо с пометкой (Т-Банк).
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
