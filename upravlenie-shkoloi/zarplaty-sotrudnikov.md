@@ -54,11 +54,11 @@
 
 Аналогично для сотрудников с ролью "**Фронт-менеджер**". На странице сотрудника в блоке Работа фронт-менеджера в школах, перейти в редактирование ставки.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Установить сумму ставки и процент с продажи абонементов. Обязательно установить галочку V "**Ставка включена**" и "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Также возможно указать ставку на странице группы. В блоке Педагоги перейти на страницу редактирования ставки.
 

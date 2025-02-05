@@ -57,6 +57,7 @@
   * [Возврат клиенту после онлайн-оплаты](organizaciya-elektronnykh-platezhei/vozvrat-klientu-posle-onlain-oplaty.md)
 * [Управление школой](upravlenie-shkoloi/README.md)
   * [Зарплаты сотрудников](upravlenie-shkoloi/zarplaty-sotrudnikov.md)
+  * [Отчет по платежам](upravlenie-shkoloi/otchet-po-platezham.md)
 * [Уведомления](uvedomleniya/README.md)
   * [Рассылка уведомлений](uvedomleniya/rassylka-uvedomlenii.md)
   * [Каналы рассылок](uvedomleniya/kanaly-rassylok.md)
