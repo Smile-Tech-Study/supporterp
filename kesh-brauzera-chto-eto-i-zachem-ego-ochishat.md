@@ -27,7 +27,7 @@
 
 ![](<.gitbook/assets/image (4) (2) (1).png>)
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 {% endtab %}
 
 {% tab title="Яндекс.Браузер" %}
@@ -82,9 +82,9 @@
 
 ![](<.gitbook/assets/image (21).png>)
 
-![](<.gitbook/assets/image (7) (1) (1).png>)
+![](<.gitbook/assets/image (7) (1) (1) (1).png>)
 
-![](<.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1).png>)
+![](<.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 {% endtab %}
 
 {% tab title="Mozilla Firefox" %}
@@ -118,7 +118,7 @@
 
 ![](<.gitbook/assets/image (20).png>)
 
-![](<.gitbook/assets/image (8) (1).png>)
+![](<.gitbook/assets/image (8) (1) (1).png>)
 {% endtab %}
 {% endtabs %}
 

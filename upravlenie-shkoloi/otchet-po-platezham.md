@@ -2,7 +2,7 @@
 
 Через основное меню перейти в Отчеты -  Платежи. В открывшемся окне доступна информация о всех платежах.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне есть возможность установить фильтры:
 

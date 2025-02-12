@@ -12,9 +12,9 @@ description: >-
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Затем добавленный ценник можно быстро назначить ученику в блоке абонементы.&#x20;
 
@@ -24,7 +24,7 @@ description: >-
 
 При создании или редактировании ценника отметьте галочку  "Доступно к продаже через личный кабинет" .
 
-![](<../../.gitbook/assets/image (9) (1).png>)
+![](<../../.gitbook/assets/image (9) (1) (1).png>)
 
 
 
@@ -32,4 +32,4 @@ description: >-
 
 Это возможность добавить сразу несколько абонементов одному ученику. Например, в вашей школе есть несколько направлений и в каждом из ним разные абонементы, а ученик посещает все направления. В Этом случае вы можете добавить ценник/ценники на пакеты абонементов  и назначить из ученику на его странице в блоке "Абонементы".
 
-![](<../../.gitbook/assets/image (10) (1).png>)
+![](<../../.gitbook/assets/image (10) (1) (1).png>)
