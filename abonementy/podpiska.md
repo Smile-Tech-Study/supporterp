@@ -20,11 +20,11 @@ description: В системе предусмотрен абонемент с т
 
 На странице ученика можно создать абонемент как из готового шаблона-ценника, так и создать новый абонемент с типом “Подписка“.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В личном кабинете клиент сам может добавить абонемент с подпиской, выбрав его из шаблонов-ценников.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отменить подписку клиент может самостоятельно в личном кабинете.
 

@@ -64,6 +64,7 @@
   * [Каналы рассылок](uvedomleniya/kanaly-rassylok.md)
   * [Стратегия рассылки](uvedomleniya/strategiya-rassylki.md)
   * [Уведомления при изменении расписания занятий](uvedomleniya/uvedomleniya-pri-izmenenii-raspisaniya-zanyatii.md)
+  * [Уведомления на странице шко](uvedomleniya/uvedomleniya-na-stranice-shko.md)
 * [Интеграции](integracii/README.md)
   * [Marquiz](integracii/marquiz/README.md)
     * [Как установить?](integracii/marquiz/kak-ustanovit.md)
