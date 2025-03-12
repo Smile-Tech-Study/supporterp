@@ -10,7 +10,7 @@ description: >-
 
 В нашей системы вы сможете  организовать работу школы или целой сети школ:
 
-* [**добавлять клиентов**](https://informa.gitbook.io/education-erp/klienty/kak-dobavit-klienta) **и** [**отслеживать весь процесс работы с ними**](https://informa.gitbook.io/education-erp/klienty/sostoyanie-klientov);
+* [добавлять клиентов](https://informa.gitbook.io/education-erp/klienty/kak-dobavit-klienta) и [отслеживать весь процесс работы с ними](https://informa.gitbook.io/education-erp/klienty/sostoyanie-klientov);
 * [добавлять абонементы](https://informa.gitbook.io/education-erp/abonementy/dobavlenie-abonementov), [замораживать абонементы на период](https://informa.gitbook.io/education-erp/novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa)**;**
 * [контролировать посещаемость учеников](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/poseshaemost-uchenikov);
 * [контролировать работу сотрудников](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/rabota-pedagogov);
