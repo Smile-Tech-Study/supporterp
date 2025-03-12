@@ -19,7 +19,7 @@
 
 На странице ученика в блоке абонементы выбрать абонемент по которому необходимо сделать возврат. В правой части абонемента нажать стрелочку "Сделать возврат".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Появится окно, где необходимо указать:
 
@@ -33,7 +33,7 @@
 
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Далее нажать сохранить. Начнется формирование возврата. После завершения в правой части абонемента отобразится чек коррекции.
 

@@ -15,7 +15,7 @@
 
 Включить  или отключить рассылку. Отметить за сколько часов отправлять уведомление, указать [канал](kanaly-rassylok.md) и выбрать [стратегию ](strategiya-rassylki.md)рассылки уведомлений.&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -25,7 +25,7 @@
 
 При внесении правок в расписание будет предложено "**Включить отправку уведомления**".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

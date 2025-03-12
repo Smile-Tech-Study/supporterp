@@ -2,7 +2,7 @@
 
 На странице школы в блоке **Уведомления** доступна настройка уведомлений для каждой школы. Необходимо нажать **Подробнее**.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Доступные уведомления для настройки:
 
@@ -29,7 +29,7 @@
 * Предупреждение о дне рождения
 * Уведомление об изменении в расписании группы
 
-Необходимо настроить каждое из уведомлений. Это возможно сделать с помощью кнопки Редактировать <img src="../.gitbook/assets/image (1) (1).png" alt="" data-size="original"> напротив каждого типа уведомлений.
+Необходимо настроить каждое из уведомлений. Это возможно сделать с помощью кнопки Редактировать <img src="../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original"> напротив каждого типа уведомлений.
 
 Откроется окно в котором необходимо: &#x20;
 
@@ -40,7 +40,7 @@
 5. [Стратегию рассылки](https://informa.gitbook.io/education-erp/uvedomleniya/strategiya-rassylki).
 6. Сохранить настройку.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 В связи с ненадежностью сотовой связи смс могут доходить до клиентов не сразу, также мы не гарантируем доставку смс. Вы можете проверить состояние отправки через пункт меню "Уведомления - История отправки смс"

@@ -89,3 +89,4 @@
   * [Обновление личного кабинета клиента](novosti-education-erp/obnovlenie-lichnogo-kabineta-klienta.md)
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
   * [Как сформировать чек при наличной оплате?](novosti-education-erp/kak-sformirovat-chek-pri-nalichnoi-oplate.md)
+  * [Генерация QR-кода на странице школы](novosti-education-erp/generaciya-qr-koda-na-stranice-shkoly.md)
