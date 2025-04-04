@@ -94,3 +94,7 @@
 ## Инструкции по работе
 
 * [Яндекс Бизнес](instrukcii-po-rabote/yandeks-biznes.md)
+
+## Партнёры
+
+* [Страховая компания "Гардия"](partnyory/strakhovaya-kompaniya-gardiya.md)
