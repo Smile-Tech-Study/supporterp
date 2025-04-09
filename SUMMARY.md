@@ -90,6 +90,8 @@
   * [Заморозка для каждого абонемента](novosti-education-erp/zamorozka-dlya-kazhdogo-abonementa.md)
   * [Как сформировать чек при наличной оплате?](novosti-education-erp/kak-sformirovat-chek-pri-nalichnoi-oplate.md)
   * [Генерация QR-кода на странице школы](novosti-education-erp/generaciya-qr-koda-na-stranice-shkoly.md)
+* [Отвечаем на часто задаваемые вопросы](otvechaem-na-chasto-zadavaemye-voprosy/README.md)
+  * [Как назначить несколько ролей одному пользователю?](otvechaem-na-chasto-zadavaemye-voprosy/kak-naznachit-neskolko-rolei-odnomu-polzovatelyu.md)
 
 ## Инструкции по работе
 
