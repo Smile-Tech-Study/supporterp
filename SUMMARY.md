@@ -96,6 +96,7 @@
 
 ## Инструкции по работе
 
+* [Домашние задания на группу](instrukcii-po-rabote/domashnie-zadaniya-na-gruppu.md)
 * [Яндекс Бизнес](instrukcii-po-rabote/yandeks-biznes.md)
 
 ## Партнёры
