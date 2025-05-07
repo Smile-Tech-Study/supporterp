@@ -8,6 +8,6 @@
 
 Для сохранения QR-кода нажмите кнопку **"Скачать QR-код"**.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 QR-код предназначен для удобного доступа к школе на лендинге и может использоваться в печатных и цифровых рекламных материалах.

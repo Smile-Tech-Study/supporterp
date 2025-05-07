@@ -18,7 +18,7 @@ description: Страница, на которой отражаются дохо
 
 ## Блок Абонементы
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отображается  сумма оплаченных абонементов (без учета абонементов, отмеченных в долг).
 

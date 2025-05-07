@@ -97,7 +97,7 @@
 ## Инструкции по работе
 
 * [Домашние задания на группу](instrukcii-po-rabote/domashnie-zadaniya-na-gruppu.md)
-* [Домашние задания на ученика](instrukcii-po-rabote/domashnie-zadaniya-na-uchenika.md)
+* [Персональные домашние задания для ученика](instrukcii-po-rabote/personalnye-domashnie-zadaniya-dlya-uchenika.md)
 * [Яндекс Бизнес](instrukcii-po-rabote/yandeks-biznes.md)
 
 ## Партнёры
