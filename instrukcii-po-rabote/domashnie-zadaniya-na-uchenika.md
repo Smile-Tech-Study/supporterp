@@ -57,6 +57,6 @@
 
 В списке выбрать задание, которое выдавалось ученику. Нажать **Контроль выполнения.**
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне будет доступна информация по выданному домашнему заданию ученику.
