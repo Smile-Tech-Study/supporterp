@@ -99,7 +99,7 @@
 
 * [Домашние задания на группу](instrukcii-po-rabote/domashnie-zadaniya-na-gruppu.md)
 * [Персональные домашние задания для ученика](instrukcii-po-rabote/domashnie-zadaniya-na-uchenika.md)
-* [Яндекс Бизнес](instrukcii-po-rabote/yandeks-biznes.md)
+* [Яндекс.Бизнес отображение школы на Яндекс картах](instrukcii-po-rabote/yandeks.biznes-otobrazhenie-shkoly-na-yandeks-kartakh.md)
 
 ## Партнёры
 
