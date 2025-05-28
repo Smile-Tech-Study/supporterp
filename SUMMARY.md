@@ -91,6 +91,7 @@
   * [Как сформировать чек при наличной оплате?](novosti-education-erp/kak-sformirovat-chek-pri-nalichnoi-oplate.md)
   * [Генерация QR-кода на странице школы](novosti-education-erp/generaciya-qr-koda-na-stranice-shkoly.md)
   * [Отображение чека возврата в абонементах](novosti-education-erp/otobrazhenie-cheka-vozvrata-v-abonementakh.md)
+  * [Юридические лица на странице франчайзи](novosti-education-erp/yuridicheskie-lica-na-stranice-franchaizi.md)
 * [Отвечаем на часто задаваемые вопросы](otvechaem-na-chasto-zadavaemye-voprosy/README.md)
   * [Как назначить несколько ролей одному пользователю?](otvechaem-na-chasto-zadavaemye-voprosy/kak-naznachit-neskolko-rolei-odnomu-polzovatelyu.md)
   * [Что делать, когда при добавлении информации о медицинской справке появляется ошибка?](otvechaem-na-chasto-zadavaemye-voprosy/chto-delat-kogda-pri-dobavlenii-informacii-o-medicinskoi-spravke-poyavlyaetsya-oshibka.md)
