@@ -59,7 +59,7 @@
   * [Зарплаты сотрудников](upravlenie-shkoloi/zarplaty-sotrudnikov.md)
   * [Отчет по платежам](upravlenie-shkoloi/otchet-po-platezham.md)
   * [Финансовый дашборд](upravlenie-shkoloi/finansovyi-dashbord.md)
-  * [Работа с задачами](upravlenie-shkoloi/rabota-s-zadachami/README.md)
+  * [Работа с задачами](upravlenie-shkoloi/rabota-s-zadachami-sotrudnikov.md)
     * [Как поставить задачу?](upravlenie-shkoloi/rabota-s-zadachami/kak-postavit-zadachu.md)
     * [Работа с задачами](upravlenie-shkoloi/rabota-s-zadachami/rabota-s-zadachami.md)
     * [Доска задач](upravlenie-shkoloi/rabota-s-zadachami/doska-zadach.md)
