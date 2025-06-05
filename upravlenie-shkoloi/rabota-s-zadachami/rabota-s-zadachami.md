@@ -28,8 +28,10 @@
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-После постановки задачи сотруднику придет уведомление в колокольчик.
+После постановки задачи сотруднику придёт уведомление в колокольчик. Из уведомления есть возможность перейти сразу в поставленную задачу.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 ## Что делать с задачей?
 
