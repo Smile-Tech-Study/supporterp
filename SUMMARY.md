@@ -58,6 +58,7 @@
 * [Управление школой](upravlenie-shkoloi/README.md)
   * [Зарплаты сотрудников](upravlenie-shkoloi/zarplaty-sotrudnikov.md)
   * [Отчет по платежам](upravlenie-shkoloi/otchet-po-platezham.md)
+  * [Работа с задачами сотрудников](upravlenie-shkoloi/rabota-s-zadachami-sotrudnikov.md)
   * [Финансовый дашборд](upravlenie-shkoloi/finansovyi-dashbord.md)
 * [Уведомления](uvedomleniya/README.md)
   * [Рассылка уведомлений](uvedomleniya/rassylka-uvedomlenii.md)
