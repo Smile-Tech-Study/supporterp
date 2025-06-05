@@ -8,7 +8,7 @@
 
 Отображается помесячная информация по всем сотрудникам, есть возможность сформировать   начисления по конкретному сотруднику, а также экспортировать данные в Excel.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В блоке ниже доступна информация о начислении, выплате и детализации по **каждому** сотруднику.&#x20;
 
@@ -50,19 +50,19 @@
 
 <figure><img src="../.gitbook/assets/collage.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Аналогично для сотрудников с ролью "**Фронт-менеджер**". На странице сотрудника в блоке Работа фронт-менеджера в школах, перейти в редактирование ставки.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Установить сумму ставки и процент с продажи абонементов. Обязательно установить галочку V "**Ставка включена**" и "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Также возможно указать ставку на странице группы. В блоке Педагоги перейти на страницу редактирования ставки.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Отметка о работе педагога
 
