@@ -106,6 +106,14 @@
 * [Персональные домашние задания для ученика](instrukcii-po-rabote/domashnie-zadaniya-na-uchenika.md)
 * [Яндекс.Бизнес отображение школы на Яндекс картах](instrukcii-po-rabote/yandeks.biznes-otobrazhenie-shkoly-na-yandeks-kartakh.md)
 
+***
+
+* [Календарь](kalendar/README.md)
+  * [Где найти календарь?](kalendar/gde-naiti-kalendar.md)
+  * [Фильтры в календаре](kalendar/filtry-v-kalendare.md)
+  * [Создание напоминания](kalendar/sozdanie-napominaniya.md)
+  * [Создание оповещения](kalendar/sozdanie-opovesheniya.md)
+
 ## Партнёры
 
 * [Страховая компания "Гардия"](partnyory/strakhovaya-kompaniya-gardiya.md)
