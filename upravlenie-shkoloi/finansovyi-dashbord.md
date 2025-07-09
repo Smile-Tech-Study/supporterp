@@ -14,11 +14,11 @@ description: Страница, на которой отражаются дохо
 * по валюте оплаты (если школы в нескольких странах),
 * группировка по датам: день, неделя, месяц, год.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Блок Абонементы
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отображается  сумма оплаченных абонементов (без учета абонементов, отмеченных в долг).
 

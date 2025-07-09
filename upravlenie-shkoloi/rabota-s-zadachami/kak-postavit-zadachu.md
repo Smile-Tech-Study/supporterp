@@ -6,11 +6,11 @@
 
 Так же добавление задачи доступно из основного меню слева **Управление школой → Задачи сотрудников → Добавить задачу**
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Откроется окно добавления задачи.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Заполните поля:
 
@@ -51,4 +51,4 @@
 
 Аналогичным способом можно поставить задачу со странице профиля сотруднику.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
