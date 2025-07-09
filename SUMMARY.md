@@ -113,6 +113,7 @@
   * [Фильтры в календаре](kalendar/filtry-v-kalendare.md)
   * [Создание напоминания](kalendar/sozdanie-napominaniya.md)
   * [Создание оповещения](kalendar/sozdanie-opovesheniya.md)
+* [Звонки клиентам](zvonki-klientam.md)
 
 ## Партнёры
 
