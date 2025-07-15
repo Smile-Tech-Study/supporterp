@@ -17,7 +17,8 @@ description: Добавление школы в систему Education ERP
 
 #### **Школа на клиентском сайте**
 
-{% hint style="info" %}
+:::info
+
 Для получения заявок с[ клиентского сайта](https://app.gitbook.com/s/-MkFNHt9T\_SX73MEMmIU/c/LkNFkJQQkijlBXWZTkQ9/master/osnovnye-ponyatiya/page-1)  после регистрации следует нажать кнопку  "Показать школу"**.** Тогда клиенты увидят школу и смогут в неё записаться.&#x20;
 
 Кроме того школа будет доступна во всех [публичных списках](../../master/osnovnye-ponyatiya/publichnye-spiski.md).
@@ -28,7 +29,8 @@ description: Добавление школы в систему Education ERP
 
 ![](<../../.gitbook/assets/image (50) (1).png>)
 
-{% hint style="info" %}
+:::info
+
 Если хотя бы в одной из групп школы не будет заполнено расписание, **все группы школы при этом публичные**, школа будет автоматически скрыта.
 
 :::

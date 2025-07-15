@@ -106,7 +106,8 @@
 {% endtab %}
 {% endtabs %}
 
-{% hint style="info" %}
+:::info
+
 Каждый из сотрудников после регистрации в системе   Education ERP получит доступ к личному кабинету и сможет отредактировать свой [профиль](../../master/osnovnye-ponyatiya/profil.md).
 
 :::

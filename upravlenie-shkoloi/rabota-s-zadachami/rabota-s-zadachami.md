@@ -27,7 +27,8 @@
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+:::info
+
 После постановки задачи сотруднику придёт уведомление в колокольчик. Из уведомления есть возможность перейти сразу в поставленную задачу.
 
 :::
