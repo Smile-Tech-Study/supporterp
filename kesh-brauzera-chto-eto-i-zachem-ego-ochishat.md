@@ -9,7 +9,7 @@
 Ниже вы можете выбрать ваш браузер и ознакомиться с **инструкцией по очистке кэша для компьютера и ноутбука.**&#x415;сли у вас установлен браузер Google Chrome
 
 [tabs]
-[tab:Google Chrome" %}
+[tab:Google Chrome]
 Если у вас установлен браузер Google Chrome
 
 1. Открываем браузер
@@ -30,7 +30,7 @@
 ![](<.gitbook/assets/image (10) (1).png>)
 [/tab]
 
-[tab:Яндекс.Браузер" %}
+[tab:Яндекс.Браузер]
 Если у вас установлен Яндекс браузер
 
 1. Открываем браузер
@@ -49,7 +49,7 @@
 ![](<.gitbook/assets/image (16).png>)
 [/tab]
 
-[tab:Opera" %}
+[tab:Opera]
 Если у вас установлен браузер Opera
 
 1. Открываем браузер
@@ -67,7 +67,7 @@
 ![](<.gitbook/assets/image (1) (2) (1).png>)
 [/tab]
 
-[tab:Microsoft Edge" %}
+[tab:Microsoft Edge]
 Если у вас установлен браузер Microsoft Edge
 
 1. Открываем браузер
@@ -87,7 +87,7 @@
 ![](<.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 [/tab]
 
-[tab:Mozilla Firefox" %}
+[tab:Mozilla Firefox]
 Если у вас установлен браузер Mozilla Firefox
 
 1. Открываем браузер
@@ -106,7 +106,7 @@
 ![](<.gitbook/assets/image (12).png>)
 [/tab]
 
-[tab:Safari" %}
+[tab:Safari]
 Если у вас установлен браузер Safari
 
 1. Открываем браузер
@@ -129,7 +129,7 @@
 иже вы можете выбрать ваш браузер и ознакомиться с **инструкцией по очистке кэша для смартфона.**
 
 [tabs]
-[tab:Google Chrome" %}
+[tab:Google Chrome]
 Если у вас установлен браузер Google Chrome
 
 1. Открываем браузер
@@ -143,7 +143,7 @@
 ![](<.gitbook/assets/image (1) (2) (1) (1).png>)
 [/tab]
 
-[tab:Safari" %}
+[tab:Safari]
 Если у вас установлен браузер Safari
 
 1. Заходим в настройки устройства

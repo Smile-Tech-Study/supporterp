@@ -11,7 +11,7 @@ description: Добавление школы в систему Education ERP
 
 ![](<../../.gitbook/assets/Школы - Education ERP - Google Chrome 22.12.2021 14\_14\_34 (2) (3).png>)
 
-[video:https://www.youtube.com/watch?v=9_OvRRn9iMk" %}
+[video:https://www.youtube.com/watch?v=9_OvRRn9iMk]
 
 После отправки заявки на регистрацию школы, её должен одобрить администратор вашей сети школ. Рассмотрение и одобрение заявки занимает около суток. Если одобрение затянулось, можно написать в [техническую поддержку](mailto:support@odin.study), по возможности  процесс будет ускорен.
 
@@ -37,5 +37,5 @@ description: Добавление школы в систему Education ERP
 
 #### Отправка заявки клиентом и получение уведомления в системе
 
-[video:https://www.youtube.com/watch?feature=youtu.be&v=3KW6iQ9jghE" %}
+[video:https://www.youtube.com/watch?feature=youtu.be&v=3KW6iQ9jghE]
 
