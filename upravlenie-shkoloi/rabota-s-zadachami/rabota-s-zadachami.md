@@ -29,7 +29,8 @@
 
 {% hint style="info" %}
 После постановки задачи сотруднику придёт уведомление в колокольчик. Из уведомления есть возможность перейти сразу в поставленную задачу.
-{% endhint %}
+
+:::
 
 <figure><img src="../../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 

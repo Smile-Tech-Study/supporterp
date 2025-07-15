@@ -39,7 +39,8 @@
 
 {% hint style="info" %}
 При [копировании домашнего задания](https://informa.gitbook.io/education-erp/instrukcii-po-rabote/domashnie-zadaniya-na-gruppu#kak-skopirovat-domashnee-zadanie-dlya-drugoi-gruppy) доступно сделать его персональным, для конкретного ученика. Для этого необходимо так же установить в строке "**Выдать**" - **Персонально**.
-{% endhint %}
+
+:::
 
 ## Как проверить домашнее задание, выданное ученику?
 
