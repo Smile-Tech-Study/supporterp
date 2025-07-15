@@ -42,7 +42,8 @@ description: Добавлена возможность использовать 
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="danger" %}
+:::danger
+
 Для автоматического перехода можно выбрать только 1 статус.
 
 :::
