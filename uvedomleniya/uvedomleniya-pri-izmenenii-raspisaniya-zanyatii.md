@@ -11,11 +11,11 @@
 
 Для настройки необходимо перейти на страницу школы. В блоке "**Группы**" нажать "**Настройка уведомлений**"
 
-![](<../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (9) (1).png>)
 
 Включить  или отключить рассылку. Отметить за сколько часов отправлять уведомление, указать [канал](kanaly-rassylok.md) и выбрать [стратегию ](strategiya-rassylki.md)рассылки уведомлений.&#x20;
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
 
 
@@ -27,10 +27,10 @@
 
 При внесении правок в расписание будет предложено "**Включить отправку уведомления**".
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
 
-![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (3) (1) (1) (1) (1).png>)
 
 В зависимости от указанных на странице школы настроек, уведомление поступит клиенту в личный кабинет.
 
-![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (4) (1) (1) (1) (1).png>)

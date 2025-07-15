@@ -14,11 +14,11 @@ description: Добавлена возможность использовать 
 
 На странице Клиенты - Все клиенты нажмите кнопку "Настройки статусов".
 
-![](<../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (22).png>)
 
 &#x20;Далее в блоке с базовым статусом, для которого хотите указать уникальное название, нажмите кнопку "Добавить новый".
 
-![](<../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (27).png>)
 
 Введите название статуса и сохраните.
 
@@ -28,7 +28,7 @@ description: Добавлена возможность использовать 
 
 :::
 
-![](<../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (23).png>)
 
 :::info
 
@@ -40,7 +40,7 @@ description: Добавлена возможность использовать 
 
 Включите свой созданный статус и все клиенты, кто раньше был в статусе Новый теперь будут в статусе "Новичок".&#x20;
 
-![](<../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (11).png>)
 
 :::danger
 
@@ -64,7 +64,7 @@ description: Добавлена возможность использовать 
 
 ### Удаление статуса
 
-![](<../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (29).png>)
 
 Обязательные условия, при котором кнопка "Удалить" доступна для статуса:&#x20;
 

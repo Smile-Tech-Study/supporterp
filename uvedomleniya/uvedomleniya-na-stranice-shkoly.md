@@ -2,7 +2,7 @@
 
 На странице школы в блоке **Уведомления** доступна настройка уведомлений для каждой школы. Необходимо нажать **Подробнее**.
 
-![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png>)
 
 Доступные уведомления для настройки:
 
@@ -40,7 +40,7 @@
 5. [Стратегию рассылки](https://informa.gitbook.io/education-erp/uvedomleniya/strategiya-rassylki).
 6. Сохранить настройку.
 
-![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1).png>)
 
 :::info
 

@@ -32,7 +32,7 @@
 
 В расширенных настройках доступен поиск абонементов по юрлицу и эквайрингу.&#x20;
 
-![](<.gitbook/assets/image (90).png" alt=""><figcaption></figcaption></figure>
+![](<.gitbook/assets/image (90).png>)
 
 **Примеры:**
 

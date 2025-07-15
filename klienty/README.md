@@ -18,7 +18,7 @@ description: >-
 
 Со страницы клиента можно написать ему напрямую на Telegram или WhatsApp (если, конечно, у клиента есть аккаунт).
 
-![](<../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (91).png>)
 
 :::info
 
