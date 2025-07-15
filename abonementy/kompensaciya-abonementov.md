@@ -2,8 +2,8 @@
 
 Если при заморозке абонементов выставить галку, что причина пропусков уважительная, то ученику такие уроки зачтутся компенсацией. Отображаются компенсации на странице ученика в блоке "Компенсации". Выдать компенсацию может франчайзи или фронт-менеджер.&#x20;
 
-<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 Если у ученика есть пропуски по уважительной причине, то можно сделать для него компенсацию в виде бесплатного абонемента на необходимое количество занятий.
 
-<figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>

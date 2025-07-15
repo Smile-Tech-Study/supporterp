@@ -9,7 +9,7 @@
 * расширили информацию о педагогах, теперь клиенты смогут больше узнать о  личных достижениях, посмотреть дипломы.\
 
 
-<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% embed url="https://www.youtube.com/watch?v=ItLWzoTqNCc" %}
 

@@ -10,7 +10,7 @@
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -18,7 +18,7 @@
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -26,11 +26,11 @@
 
 :::
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Покупка страховки доступна как в ЛК на ПК, так и в ЛК на мобильном. Инструкция аналогичная.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 
 Информация о приобретенной страховке и периоде действия хранится в системе. С каждой проданной страховки на счет франчайзи зачисляется бонус, который можно потратить в счет оплаты СМС-уведомлений. Данные средства отобразятся на лицевом счёте франчайзи в Education ERP. Сумма бонуса зависит от суммы покупки клиента.&#x20;
 

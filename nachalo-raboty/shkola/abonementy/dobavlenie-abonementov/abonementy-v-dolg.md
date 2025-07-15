@@ -2,4 +2,4 @@
 
 В системе предусмотрено добавление абонементам с отметкой "**В долг**". Эта галочка означает, что абонемент уже выдан ученику, но пока не оплачен.&#x20;
 
-<figure><img src="../../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+![](<../../../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>

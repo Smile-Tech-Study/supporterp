@@ -14,17 +14,17 @@ description: Страница, на которой отражаются дохо
 * по валюте оплаты (если школы в нескольких странах),
 * группировка по датам: день, неделя, месяц, год.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Блок Абонементы
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отображается  сумма оплаченных абонементов (без учета абонементов, отмеченных в долг).
 
 ## Блок Расходы
 
-<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Информация по расходам:
 
@@ -40,14 +40,14 @@ description: Страница, на которой отражаются дохо
 
 ## Блок Чистая прибыль от абонементов
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 ## Блок Рентабельность
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## Блок Мероприятия
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 Отображается информация по [мероприятиям](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/meropriyatiya).

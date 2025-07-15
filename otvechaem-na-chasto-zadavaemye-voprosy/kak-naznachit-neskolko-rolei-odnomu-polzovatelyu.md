@@ -7,10 +7,10 @@
 * если это Ваш сотрудник, то перейти на страницу его профиля, кликнув по имени в уведомлении, нажать кнопку **Редактировать**, затем добавить ему нужную роль;
 * если сотрудник был зарегистрирован у другого франчайзи, нажмите кнопку **Продолжить**
 
-<figure><img src="../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
 
 Затем **Взять сотрудника к себе**
 
-<figure><img src="../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (105).png" alt=""><figcaption></figcaption></figure>

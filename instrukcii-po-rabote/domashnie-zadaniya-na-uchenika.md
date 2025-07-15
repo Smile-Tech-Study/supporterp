@@ -6,19 +6,19 @@
 
 1. на странице группы выбрать "**Домашние задания**"
 
-<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (117).png" alt=""><figcaption></figcaption></figure>
 
 2. из основного меню перейти "**Обучение учеников - Домашние задания**"
 
-<figure><img src="../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1) (3).png" alt=""><figcaption></figcaption></figure>
 
 Далее нажать "**Написать домашнее задание**", выбрать группу, к которой прикреплен ученик.
 
-<figure><img src="../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (3).png" alt=""><figcaption></figcaption></figure>
 
 Для выдачи домашнего задания для конкретного ученика необходимо перейти на вкладку выдать "**Персонально**". В блоке Ученик из выпадающего списка выбрать ученика, которому вы хотите выдать домашнее задание.
 
-<figure><img src="../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
 
 Далее необходимо заполнить все остальные поля на данной странице:
 
@@ -29,7 +29,7 @@
 * Есть возможность не показывать домашнее задание в личном кабинете родителя. При отметки данного пункта задание не отобразится у клиентов.
 * Так же, возможно установить галочку, что домашнее задание не будет считаться выполненным без прикрепленного файла с решением. Благодаря этому не будет возможности в личном кабинете клиента отметить его выполненным до тех пор, пока не будет добавлен необходимый файл.
 
-<figure><img src="../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (3) (4).png" alt=""><figcaption></figcaption></figure>
 
 * Указать язык домашнего задания.
 * Прикрепить к домашнему заданию видео из Базы видео. Если в Базе видео нет необходимого, то необходимо обратиться к администратору сети за уточнением информации и добавлением дополнительных видео. **Загрузка видео разрешена только из базы видео.** Если необходимо прикрепить видео к домашнему заданию, загрузите его в Базу видео и затем прикрепите к домашнему заданию.
@@ -49,16 +49,16 @@
 
 1. со страницы ученика. В блоке с основной информацией находится кнопка **Домашние задания**.
 
-<figure><img src="../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
 
 При переходе откроется страница со всеми домашними заданиями этого ученика и информацией по ним.
 
-<figure><img src="../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (120).png" alt=""><figcaption></figcaption></figure>
 
 2. со страницы группы. Перейти в блок **Домашние задания.**&#x20;
 
 В списке выбрать задание, которое выдавалось ученику. Нажать **Контроль выполнения.**
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне будет доступна информация по выданному домашнему заданию ученику.

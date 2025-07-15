@@ -4,11 +4,11 @@
 
 Расчет начисления зарплаты сотрудников доступен на странице **Управление школой - Зарплаты - Начисления.**
 
-<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Отображается помесячная информация по всем сотрудникам, есть возможность сформировать   начисления по конкретному сотруднику, а также экспортировать данные в Excel.
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 В блоке ниже доступна информация о начислении, выплате и детализации по **каждому** сотруднику.&#x20;
 
@@ -34,7 +34,7 @@
 а также информацию по выплатам.\
 На данной странице доступно начисление суммы и выплата. Для этого действия нажмите кнопку  "Начислить".
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Расчёт зарплаты и ставка
 
@@ -52,27 +52,27 @@
 
 На занятии педагог может выполнять одну из ролей: Педагог, Старший педагог или Помощник педагога.​
 
-<figure><img src="../.gitbook/assets/collage.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/collage.jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Аналогично для сотрудников с ролью "**Фронт-менеджер**". На странице сотрудника в блоке Работа фронт-менеджера в школах, перейти в редактирование ставки.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Установить сумму ставки и процент с продажи абонементов. Обязательно установить галочку V "**Ставка включена**" и "Сохранить".
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Также возможно указать ставку на странице группы. В блоке Педагоги перейти на страницу редактирования ставки.
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Отметка о работе педагога
 
 Для расчета зарплаты на странице группы в блоке "Работа сотрудников"  на странице группы обязательно требуется проставлять отметку, если педагог провёл занятие. При выставлении отметки доступно указание роли: фронт-менеджер, помощник педагога, педагог, старший педагог.
 
-<figure><img src="../.gitbook/assets/collage (1).jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/collage (1).jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 

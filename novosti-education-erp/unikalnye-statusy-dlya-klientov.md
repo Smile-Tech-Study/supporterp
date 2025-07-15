@@ -14,11 +14,11 @@ description: Добавлена возможность использовать 
 
 На странице Клиенты - Все клиенты нажмите кнопку "Настройки статусов".
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 &#x20;Далее в блоке с базовым статусом, для которого хотите указать уникальное название, нажмите кнопку "Добавить новый".
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Введите название статуса и сохраните.
 
@@ -28,7 +28,7 @@ description: Добавлена возможность использовать 
 
 :::
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 :::info
 
@@ -40,7 +40,7 @@ description: Добавлена возможность использовать 
 
 Включите свой созданный статус и все клиенты, кто раньше был в статусе Новый теперь будут в статусе "Новичок".&#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 :::danger
 
@@ -60,11 +60,11 @@ description: Добавлена возможность использовать 
 
 :::
 
-<figure><img src="../.gitbook/assets/Статусы (1).gif" alt=""><figcaption><p>Ручной перевод в новый статус из блока "Купил абонемент"</p></figcaption></figure>
+![](<../.gitbook/assets/Статусы (1).gif" alt=""><figcaption><p>Ручной перевод в новый статус из блока "Купил абонемент"</p></figcaption></figure>
 
 ### Удаление статуса
 
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 
 Обязательные условия, при котором кнопка "Удалить" доступна для статуса:&#x20;
 

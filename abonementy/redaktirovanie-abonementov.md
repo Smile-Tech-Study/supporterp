@@ -10,4 +10,4 @@ description: Доступно в блоке "Абонементы" на стра
 
 После нажатия на кнопку "Изменить абонемент" пользователь переходит на страницу редактирования абонемента, где можно поменять основные параметры абонемента.
 
-<figure><img src="../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (83).png" alt=""><figcaption></figcaption></figure>

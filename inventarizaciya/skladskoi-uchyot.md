@@ -28,11 +28,11 @@
 * тип школы, для которой данная категория добавляется
 * категорию, внутри которой появится ваша.
 
-<figure><img src="../.gitbook/assets/photo_2023-03-10_09-56-14.jpg" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/photo_2023-03-10_09-56-14.jpg" alt=""><figcaption></figcaption></figure>
 
 Для добавления нового предмета нужно перейти в "Создать предмет"
 
-<figure><img src="../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot_1.png" alt=""><figcaption></figcaption></figure>
 
 В открывшемся окне заполнить все поля.
 
@@ -58,12 +58,12 @@
 
 Чтобы отправить предмет в архив необходимо войти в него и нажать **Архивировать**.
 
-<figure><img src="../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot_3.png" alt=""><figcaption></figcaption></figure>
 
 Заархивированные предметы доступны на главной странице **Предметы и категории от Центрального офиса** в **Архиве предметов**.
 
-<figure><img src="../.gitbook/assets/Screenshot_4.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot_4.png" alt=""><figcaption></figcaption></figure>
 
 Чтобы вернуть предмет из архива необходимо в **Архиве предметов** перейти в нужный товар и нажать **Разархивировать**.
 
-<figure><img src="../.gitbook/assets/Screenshot_5.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/Screenshot_5.png" alt=""><figcaption></figcaption></figure>

@@ -11,7 +11,7 @@
 
 Вы можете **перетаскивать задачи между статусами** — это удобно для визуального контроля и быстрого изменения статуса задачи.
 
-<figure><img src="../../.gitbook/assets/bandicam-2025-06-05-08-55-15-460.gif" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/bandicam-2025-06-05-08-55-15-460.gif" alt=""><figcaption></figcaption></figure>
 
 Система задач позволяет:
 

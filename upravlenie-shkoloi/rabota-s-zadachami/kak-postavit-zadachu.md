@@ -6,11 +6,11 @@
 
 Так же добавление задачи доступно из основного меню слева **Управление школой → Задачи сотрудников → Добавить задачу**
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 Откроется окно добавления задачи.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Заполните поля:
 
@@ -42,7 +42,7 @@
 * SMS-уведомления сотрудникам: можно включить **рассылку платных SMS-уведомлений** сотрудникам о новой задаче.\
   Уведомление будет отправлено **через 20 минут** после редактирования задачи.
 
-<figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 ## Со страницы профиля
 
@@ -53,4 +53,4 @@
 
 Аналогичным способом можно поставить задачу со странице профиля сотруднику.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>

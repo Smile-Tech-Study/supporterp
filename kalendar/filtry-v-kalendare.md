@@ -31,4 +31,4 @@ description: >-
 
 После ввода фильтров обязательно нажмите **«Применить настройки»**, чтобы обновить отображение в календаре.
 
-<figure><img src="../.gitbook/assets/bandicam-2025-06-10-17-50-43-592.gif" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/bandicam-2025-06-10-17-50-43-592.gif" alt=""><figcaption></figcaption></figure>

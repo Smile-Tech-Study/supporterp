@@ -22,8 +22,8 @@ description: >-
 * Посещение учеников
 * А также посещаемость, домашние задания, материалы для клиентов, конспекты, нормативы
 
-<figure><img src="../../../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (64).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Расписание публичной группы и возраст учеников можно увидеть на клиентском сайте.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/image (62).png" alt="" width="563"><figcaption></figcaption></figure>

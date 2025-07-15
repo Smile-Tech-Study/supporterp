@@ -2,7 +2,7 @@
 
 ### Страховая компания «[ГАРДИЯ](https://gardia.sk/)» присутствует на рынке страхования более 30 лет!  &#x20;
 
-<figure><img src="../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 
 Компания "GARDIA" - это компания с высоком рейтингом финансовой надёжности ruAA от Эксперт РА, что подтверждает её стабильность и доверие со стороны клиентов.
 

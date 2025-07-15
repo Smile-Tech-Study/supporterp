@@ -2,7 +2,7 @@
 
 На странице школы в блоке **Уведомления** доступна настройка уведомлений для каждой школы. Необходимо нажать **Подробнее**.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+![](<../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Доступные уведомления для настройки:
 
