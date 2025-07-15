@@ -68,7 +68,7 @@
 
 ![](../../.gitbook/assets/Screenshot\_415.png)
 
-{% embed url="https://www.youtube.com/watch?v=HzLDyEpIuEw" %}
+[video:https://www.youtube.com/watch?v=HzLDyEpIuEw" %}
 
 :::info
 
@@ -90,5 +90,5 @@
 
 Чтобы **клиенту** обязательно пришло смс с логином и паролем после покупки абонемента, в блоке "Уведомления" на странице школы нужно включить отправку смc, выбрав стратегию рассылки "Полное покрытие". На момент создания школы все рассылки будут включены, но рассылаться будут только **по бесплатным каналам**.
 
-{% embed url="https://youtu.be/ldGdWDm70iw" %}
+[video:https://youtu.be/ldGdWDm70iw" %}
 

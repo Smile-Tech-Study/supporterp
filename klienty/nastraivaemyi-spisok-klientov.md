@@ -56,4 +56,4 @@
 [/tab]
 {% endtabs %}
 
-{% embed url="https://youtu.be/VBQttTbBbX8" %}
+[video:https://youtu.be/VBQttTbBbX8" %}
