@@ -28,7 +28,7 @@
 ![](<.gitbook/assets/image (4) (2) (1).png>)
 
 ![](<.gitbook/assets/image (10) (1).png>)
-{% endtab %}
+[/tab]
 
 [tab:Яндекс.Браузер" %}
 Если у вас установлен Яндекс браузер&#x20;
@@ -47,7 +47,7 @@
 ![](<.gitbook/assets/image (22) (3).png>)
 
 ![](<.gitbook/assets/image (16).png>)
-{% endtab %}
+[/tab]
 
 [tab:Opera" %}
 Если у вас установлен браузер Opera
@@ -65,7 +65,7 @@
 ![](<.gitbook/assets/image (6) (2).png>)
 
 ![](<.gitbook/assets/image (1) (2) (1).png>)
-{% endtab %}
+[/tab]
 
 [tab:Microsoft Edge" %}
 Если у вас установлен браузер Microsoft Edge
@@ -85,7 +85,7 @@
 ![](<.gitbook/assets/image (7) (1) (1) (1).png>)
 
 ![](<.gitbook/assets/image (5) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png>)
-{% endtab %}
+[/tab]
 
 [tab:Mozilla Firefox" %}
 Если у вас установлен браузер Mozilla Firefox
@@ -104,7 +104,7 @@
 ![](<.gitbook/assets/image (13).png>)
 
 ![](<.gitbook/assets/image (12).png>)
-{% endtab %}
+[/tab]
 
 [tab:Safari" %}
 Если у вас установлен браузер Safari
@@ -119,7 +119,7 @@
 ![](<.gitbook/assets/image (20).png>)
 
 ![](<.gitbook/assets/image (8) (1) (1).png>)
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 
@@ -141,7 +141,7 @@
 7. Нажимаем "Удалить данные"
 
 ![](<.gitbook/assets/image (1) (2) (1) (1).png>)
-{% endtab %}
+[/tab]
 
 [tab:Safari" %}
 Если у вас установлен браузер Safari
@@ -151,5 +151,5 @@
 3. Выбираем "Очистить историю и данные"
 
 ![](<.gitbook/assets/image (11) (1).png>)
-{% endtab %}
+[/tab]
 {% endtabs %}

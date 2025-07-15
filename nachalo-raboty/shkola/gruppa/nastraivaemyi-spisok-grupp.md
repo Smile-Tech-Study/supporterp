@@ -5,11 +5,11 @@
 [tabs]
 [tab:First Tab" %}
 
-{% endtab %}
+[/tab]
 
 [tab:Second Tab" %}
 
-{% endtab %}
+[/tab]
 {% endtabs %}
 
 
