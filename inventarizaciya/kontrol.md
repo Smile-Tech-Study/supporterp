@@ -18,7 +18,7 @@
 
 <div align="right">
 
-<img src="../.gitbook/assets/Screenshot_202.png" alt="">
+![](<../.gitbook/assets/Screenshot_202.png" alt="">
 
 </div>
 
