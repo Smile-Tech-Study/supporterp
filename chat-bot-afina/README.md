@@ -1,5 +1,6 @@
 ---
 description: Афина - бот, созданный нами, чтобы упростить ваше взаимодействие с клиентами.
+order: 3
 ---
 
 # Чат-бот Афина
@@ -15,4 +16,3 @@ description: Афина - бот, созданный нами, чтобы упр
 [Telegram](https://education-erp.com/ru/tech/afinabot?schoolTypeId=2\&messenger=Telegram), [Viber](https://education-erp.com/ru/tech/afinabot?schoolTypeId=2\&messenger=Viber), [VKontakte, WhatsApp](https://api.whatsapp.com/send/?phone=18577632009\&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82\&app\_absent=0) - школ Русского балета.
 
 :::
-

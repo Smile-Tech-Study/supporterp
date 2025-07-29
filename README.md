@@ -2,6 +2,7 @@
 description: >-
   Система управления и контроля предприятием в области дополнительного
   образования.
+order: 5
 ---
 
 # Education ERP
@@ -19,7 +20,3 @@ description: >-
 * [выдавать и контролировать домашние задания ученикам](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/domashnie-zadaniya);
 * получать оценки и отзывы о работе педагогов;
 * [собственный интернет-магазин в личном кабинете](https://informa.gitbook.io/education-erp/inventarizaciya).
-
-
-
-

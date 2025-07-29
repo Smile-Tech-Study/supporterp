@@ -1,3 +1,7 @@
+---
+order: 6
+---
+
 # Table of contents
 
 * [Education ERP](README.md)

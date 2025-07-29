@@ -1,5 +1,6 @@
 ---
 description: Добавление школы в систему Education ERP
+order: 6
 ---
 
 # Регистрация
@@ -38,4 +39,3 @@ description: Добавление школы в систему Education ERP
 #### Отправка заявки клиентом и получение уведомления в системе
 
 [video:https://www.youtube.com/watch?feature=youtu.be&v=3KW6iQ9jghE]
-
