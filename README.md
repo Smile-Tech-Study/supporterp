@@ -2,7 +2,8 @@
 description: >-
   Система управления и контроля предприятием в области дополнительного
   образования.
-order: 5
+order: 0.3
+title: Education ERP
 ---
 
 # Education ERP
