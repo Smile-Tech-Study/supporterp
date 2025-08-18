@@ -1,6 +1,6 @@
 ---
 title: Ценники
-order: 9
+order: 1.5
 ---
 
 [view:hierarchy=none::::List]

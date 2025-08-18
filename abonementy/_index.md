@@ -1,6 +1,6 @@
 ---
 title: Абонементы
-order: 10
+order: 0.9
 ---
 
 [view:hierarchy=none::::List]
