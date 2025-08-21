@@ -1,6 +1,6 @@
 ---
 title: Новости Education ERP
-order: 19
+order: 4
 ---
 
 [view:hierarchy=none::::List]
