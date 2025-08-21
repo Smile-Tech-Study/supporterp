@@ -1,6 +1,6 @@
 ---
 title: Чат-бот Афина
-order: 11
+order: 0.99994
 ---
 
 [view:hierarchy=none::::List]
