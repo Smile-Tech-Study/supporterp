@@ -68,6 +68,6 @@ Education ERP теперь подключён напрямую к сервису
 
 Покупка абонементов - из [ценников](./../abonementy/cenniki/_index).
 
-Оплата назначенных [ученику](../ucheniki) [абонементов](https://app.gram.ax/github.com/Smile-Tech-Study/Education_ERP_help/main/-/abonementy/dobavlenie-abonementov-2/abonementy-v-dolg).
+Оплата назначенных [ученику](../ucheniki) [абонементов](./../abonementy/dobavlenie-abonementov-2/abonementy-v-dolg).
 
-Приобретение билетов на [мероприятия](https://app.gram.ax/github.com/Smile-Tech-Study/Education_ERP_help/main/-/nachalo-raboty/shkola/meropriyatiya).
+Приобретение билетов на [мероприятия](./../nachalo-raboty/shkola/meropriyatiya).
