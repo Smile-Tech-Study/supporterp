@@ -8,6 +8,6 @@ title: Сотрудники
 
 Со страницы школы есть возможность назначить управляющего, методиста, фронт-менеджера, маркетолога, педагогов.
 
-![](<../../.gitbook/assets/image (7) (1) (1).png>)
+![](<./image (7) (1) (1).png>)
 
-Подробнее о [добавлении сотрудников](../roli-v-sisteme-education-erp/dobavlenie-sotrudnikov.md) и о [ролях в системе](../roli-v-sisteme-education-erp/).
+Подробнее о [добавлении сотрудников](../roli-v-sisteme-education-erp/dobavlenie-sotrudnikov) и о [ролях в системе](./../roli-v-sisteme-education-erp/_index).

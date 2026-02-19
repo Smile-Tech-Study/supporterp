@@ -70,4 +70,4 @@ Education ERP теперь подключён напрямую к сервису
 
 Оплата назначенных [ученику](../ucheniki) [абонементов](./../abonementy/dobavlenie-abonementov-2/abonementy-v-dolg).
 
-Приобретение билетов на [мероприятия](./../nachalo-raboty/shkola/meropriyatiya).
+Приобретение билетов на [мероприятия](./../EducationERP/nachalo-raboty/shkola/meropriyatiya).

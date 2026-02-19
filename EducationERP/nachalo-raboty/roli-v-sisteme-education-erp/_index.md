@@ -126,5 +126,3 @@ order: 2
 Каждый из сотрудников после регистрации в системе Education ERP получит доступ к личному кабинету и сможет отредактировать свой [профиль](https://informa.gitbook.io/education-erp/master/osnovnye-ponyatiya/profil).
 
 :::
-
-
