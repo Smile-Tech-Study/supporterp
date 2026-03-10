@@ -17,13 +17,13 @@ order: 2
 
 -  наполняет чек-лист для каждой из ролей в своём типе школ;
 
--  одобряет создание/редактирование [школы](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola) и добавление [помещения](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/pomeshenie) (все, кроме первого);
+-  одобряет создание/редактирование [школы](./../shkola/registraciya-shkoly) и добавление [помещения](./../shkola/pomeshenie) (все, кроме первого);
 
 -  создаёт тесты для педагогов;
 
 -  добавляет информационные материалы;
 
--  проверяет и публикует новости на [клиентский сайт](https://informa.gitbook.io/education-erp/master/osnovnye-ponyatiya/klientskii-sait), если это актуально в его типе школ.
+-  проверяет и публикует новости на [клиентский сайт](./../../osnovnye-ponyatiya/klientskiy-sayt), если это актуально в его типе школ.
 
 [/tab]
 
@@ -33,23 +33,23 @@ order: 2
 
 Основные возможности:
 
--  управление [школой](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola) (школами);
+-  управление [школой](./../shkola/_index) (школами);
 
--  настройка интеграций с [Чат-бот Афина](https://informa.gitbook.io/education-erp/chat-bot-afina), [ВКонтакте](https://informa.gitbook.io/education-erp/chat-bot-afina/afina-vkontakte), [Marquiz](https://informa.gitbook.io/education-erp/integracii/marquiz), VoxImplant;
+-  настройка интеграций с [Чат-бот Афина](./../../../chat-bot-afina/_index), [ВКонтакте](./../../../chat-bot-afina/afina-vkontakte), [Marquiz](./../../../integracii/marquiz/_index);
 
 -  регистрация эквайринга (актуально для России и Беларуси);
 
 -  работа с торговой точкой Модуль.Кассы (актуально для России);
 
--  работа с [клиентами](https://informa.gitbook.io/education-erp/klienty), [учениками](https://informa.gitbook.io/education-erp/ucheniki), [сотрудниками](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/sotrudniki);
+-  работа с [клиентами](./../../../klienty/_index), [учениками](./../../../ucheniki-2/_index), [сотрудниками](./../shkola/sotrudniki);
 
--  настройка автоматический [уведомлений](https://informa.gitbook.io/education-erp/uvedomleniya) для каждой школы;
+-  настройка автоматический [уведомлений](./../../../uvedomleniya/_index) для каждой школы;
 
--  пополнение [лицевого счета](https://informa.gitbook.io/education-erp/master/osnovnye-ponyatiya/licevoi-schyot);
+-  пополнение [лицевого счета](./../../osnovnye-ponyatiya/licevoy-schet);
 
--  работа с [абонементами](https://informa.gitbook.io/education-erp/abonementy);
+-  работа с [абонементами](./../../../abonementy/_index);
 
--  предложение новостей для публикации на [клиентском сайте](https://informa.gitbook.io/education-erp/master/osnovnye-ponyatiya/klientskii-sait), если это актуально для его типа школ;
+-  предложение новостей для публикации на [клиентском сайте](./../../osnovnye-ponyatiya/klientskiy-sayt), если это актуально для его типа школ;
 
 -  изначально является получателем всех уведомлений в своей школе, обязанность можно передать, изменив получателя смс на странице школы.
 
@@ -61,15 +61,15 @@ order: 2
 
 Основные возможности:
 
--  управление [школой](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola) (школами), в которые будет добавлен;
+-  управление [школой](./../shkola/_index) (школами), в которые будет добавлен;
 
--  настройка интеграций с [Чат-бот Афина](https://informa.gitbook.io/education-erp/chat-bot-afina), [ВКонтакте](https://informa.gitbook.io/education-erp/chat-bot-afina/afina-vkontakte), [Marquiz](https://informa.gitbook.io/education-erp/integracii/marquiz), VoxImplant;
+-  настройка интеграций с [Чат-бот Афина](./../../../chat-bot-afina/_index), [ВКонтакте](./../../../chat-bot-afina/afina-vkontakte), [Marquiz](./../../../integracii/marquiz/_index);
 
--  работа с [клиентами](https://informa.gitbook.io/education-erp/klienty), [учениками](https://informa.gitbook.io/education-erp/ucheniki), [сотрудниками](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/sotrudniki);
+-  работа с [клиентами](./../../../klienty/_index), [учениками](./../../../ucheniki-2/_index), [сотрудниками](./../shkola/sotrudniki);
 
--  настройка автоматический [уведомлений](https://informa.gitbook.io/education-erp/uvedomleniya) для каждой школы, где имеется роль Управляющего;
+-  настройка автоматический [уведомлений](./../../../uvedomleniya/_index) для каждой школы, где имеется роль Управляющего;
 
--  работа с [абонементами](https://informa.gitbook.io/education-erp/abonementy).
+-  работа с [абонементами](./../../../abonementy/_index).
 
 [/tab]
 
@@ -79,17 +79,17 @@ order: 2
 
 Основные возможности:
 
--  добавление [абонементов](https://informa.gitbook.io/education-erp/abonementy) и прием [оплаты](https://informa.gitbook.io/education-erp/abonementy/sposoby-oplaty) по ним;
+-  добавление [абонементов](./../../../abonementy/_index) и прием [оплаты](./../../../abonementy/sposoby-oplaty) по ним;
 
--  выставление [отметок о посещении](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/poseshaemost-uchenikov) ученикам;
+-  выставление [отметок о посещении](./../shkola/gruppa/poseshaemost-uchenikov) ученикам;
 
--  выставление [отметок о работе педагогов](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/rabota-pedagogov);
+-  выставление [отметок о работе педагогов](./../shkola/gruppa/rabota-pedagogov);
 
--  доступна отметка посещений на странице [группы](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa).
+-  доступна отметка посещений на странице [группы](./../shkola/gruppa/_index).
 
 -  выставление отметок о работе педагога;
 
--  выставление отметок о работе другому фронту-менеджеру или самому себе, если включена настройка на странице [школы](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola).
+-  выставление отметок о работе другому фронту-менеджеру или самому себе, если включена настройка на странице [школы](./../shkola/_index).
 
 [/tab]
 
@@ -99,17 +99,17 @@ order: 2
 
 Основные возможности:
 
--  отметка [посещений учеников](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/gruppa/poseshaemost-uchenikov), если это разрешено настройками на странице [школы](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola);
+-  отметка [посещений учеников](./../shkola/gruppa/poseshaemost-uchenikov), если это разрешено настройками на странице [школы](./../shkola/_index);
 
--  составление конспектов, конспекты отображаются в [личном кабинете клиента](https://informa.gitbook.io/education-erp/klienty/lichnyi-kabinet-klienta);
+-  составление конспектов, конспекты отображаются в [личном кабинете клиента](./../../../klienty/lichnyi-kabinet-klienta/_index);
 
 -  составление и выдача домашних заданий, доступных в личном кабинете клиента;
 
--  составление плана [мероприятий](https://informa.gitbook.io/education-erp/nachalo-raboty/shkola/meropriyatiya);
+-  составление плана [мероприятий](./../shkola/meropriyatiya);
 
 -  приём и выставление нормативов, если актуально для типа школ;
 
--  планирование и проведение бесед с [клиентами](https://informa.gitbook.io/education-erp/klienty) и внесение данных об этом в систему;
+-  планирование и проведение бесед с [клиентами](./../../../klienty/_index) и внесение данных об этом в систему;
 
 -  добавление материалов для клиентов (родителей), предварительно материалы должны быть выложены администратором в каталог “Для клиентов через педагогов“;
 
@@ -123,6 +123,6 @@ order: 2
 
 :::info 
 
-Каждый из сотрудников после регистрации в системе Education ERP получит доступ к личному кабинету и сможет отредактировать свой [профиль](https://informa.gitbook.io/education-erp/master/osnovnye-ponyatiya/profil).
+Каждый из сотрудников после регистрации в системе Education ERP получит доступ к личному кабинету и сможет отредактировать свой [профиль](./../../osnovnye-ponyatiya/profil).
 
 :::
