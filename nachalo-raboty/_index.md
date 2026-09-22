@@ -1,6 +1,9 @@
 ---
-title: Начало работы
-order: 0.5
+title: 🚀 Начало работы
+order: 0.2
+aliases:
+  - path: EducationERP/nachalo-raboty
+    moved: "2026-09-22T19:43:48Z"
 ---
 
 [view:hierarchy=none::::List]

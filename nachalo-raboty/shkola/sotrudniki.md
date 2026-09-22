@@ -10,4 +10,4 @@ title: Сотрудники
 
 ![](<./image (7) (1) (1).png>)
 
-Подробнее о [добавлении сотрудников](../roli-v-sisteme-education-erp/dobavlenie-sotrudnikov) и о [ролях в системе](./../roli-v-sisteme-education-erp/_index).
+Подробнее о [добавлении сотрудников](./../roli-v-sisteme-education-erp/dobavlenie-sotrudnikov) и о [ролях в системе](./../roli-v-sisteme-education-erp/_index).
