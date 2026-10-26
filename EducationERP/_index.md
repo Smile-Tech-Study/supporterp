@@ -5,7 +5,7 @@ description: >-
 order: 0.1
 ---
 
-[html]
+[html::860px]
 
 <!DOCTYPE html>
 <html lang="ru">
